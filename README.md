@@ -1,8 +1,6 @@
 # Hi there, I'm Saber Fazliahmadi 👋
 
-🎯 **Backend Developer | AI Enthusiast | Problem Solver**
-
-🔰➤ Every day, i Post Latest Technology News & PHP Laravel Tips For You on My Linkedin Page & YouTube Channel.
+🔰 ➤ Every day, i Post Latest Technology News & PHP Laravel Tips For You on My Linkedin Page & YouTube Channel.
 </br>
 </br>
 I learn by sharing; let's grow together🤝
@@ -14,7 +12,7 @@ I learn by sharing; let's grow together🤝
 🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi Linkedin Page & YouTube Channel to See All My Future Posts & Won't Miss any Updates!
 </br>
 
-## 🌐 Connect with Me:
+## 🌐 Follow My Linkedin Page & YouTube Channel & Connect with Me:
 
 My YouTube Channel:
 </br>
