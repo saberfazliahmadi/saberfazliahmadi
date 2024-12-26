@@ -25,9 +25,9 @@ https://github.com/saberfazliahmadi/Laravel-Tips
 My YouTube Channel:
 </br>
 <p align="left">
-<a href="https://www.youtube.com/c/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" /></a>
 </p>
-https://www.youtube.com/c/@saberfazliahmadi
+https://www.youtube.com/@saberfazliahmadi
 </br>
 </br>
 
