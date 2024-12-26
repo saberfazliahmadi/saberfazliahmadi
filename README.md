@@ -25,11 +25,6 @@ Expanding my expertise in **advanced Laravel features** and deepening my profici
 
 ---
 
-## 🌱 I'm currently learning:
-Improving my **German language skills (currently at A1 level)** to facilitate seamless workplace communication and collaboration.
-
----
-
 ## 💬 Ask me about:
 - Developing **PHP solutions** powered by artificial intelligence.
 - Optimizing **Laravel frameworks**.
