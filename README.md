@@ -70,17 +70,17 @@ YouTube Channel:
 
 LinkedIn:
 </br>
-</br>
 <p align="left">
   <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saberfazliahmadi/" height="30" width="40" /></a>
 </p>
 https://www.linkedin.com/in/saberfazliahmadi/
-[linkedin](https://www.linkedin.com/in/saberfazliahmadi)
 </br>
 
 - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 </br>
-- Email: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
+- Email:
+</br>
+[ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
 </br>
 
 ---
