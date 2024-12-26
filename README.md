@@ -78,9 +78,11 @@ https://www.linkedin.com/in/saberfazliahmadi/
 
 - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 </br>
-- Email:
+
+
 </br>
-[ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
+- Email: ahmadi.saber.germany@gmail.com
+
 </br>
 
 ---
