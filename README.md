@@ -41,6 +41,61 @@ My Email Address: ahmadi.saber.germany@gmail.com
 ---
 
 ## 💼 About Me
+
+```php
+<?php
+
+namespace SaberFazliahmadi;
+
+class About extends Me
+{
+    public function getBio(): string
+    {
+        return 'I am a Backend Developer with a solid foundation in PHP, Python, and Laravel. I also have experience combining backend solutions with artificial intelligence.';
+    }
+
+    public function getMore(): array
+    {
+        return [
+            'work' => [
+                'Backend Developer @MatabeOnline Clinic Management Software',
+                'Contributor to AI-powered healthcare solutions',
+            ],
+            'education' => [
+                'Master\'s in Intelligent Adaptive Systems @University of Hamburg',
+                'Master\'s in Information Management @Azad University',
+                'Bachelor\'s in Electronics @Azad University',
+            ],
+        ];
+    }
+
+    public function getCurrentState(): array
+    {
+        return [
+            'working_on' => [
+                'Enhancing backend development skills in PHP and Laravel',
+                'Collaborating on AI-integrated web applications',
+            ],
+            'learning' => [
+                'Advanced Laravel features',
+                'German (currently at A1 level)',
+            ],
+        ];
+    }
+
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to innovative open-source projects, blending backend technologies with AI.';
+    }
+
+    public function getFunFact(): string
+    {
+        return 'I transitioned from being an electronics technician to an IT professional, blending hardware expertise with software engineering.';
+    }
+}
+
+```
+
 I’m a **Backend Developer** with experience in frontend development. With a solid foundation in **PHP**, **Python**, and the **Laravel Framework**, I strive to combine innovative backend solutions with artificial intelligence to tackle real-world challenges.
 
 ---
