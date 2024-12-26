@@ -1,6 +1,6 @@
 # Hi there, I'm Saber Fazliahmadi 👋
 
-🔰 ➤ Every day, i Post Latest Technology News & PHP Laravel Tips For You on My GitHub Profile & Linkedin Page & YouTube Channel.
+🔰 ➤ Every day, i Post Latest PHP => Laravel Tips For You on My GitHub Profile & Linkedin Page & YouTube Channel.
 </br>
 </br>
 I learn by sharing; let's grow together🤝
