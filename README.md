@@ -5,7 +5,7 @@
 ---
 
 ## 💼 About Me
-I’m a **Backend Developer** with experience in frontend development. Since moving to Germany in September 2024, I’ve been immersing myself in an intensive German A1 course to enhance workplace communication. With a solid foundation in **PHP**, **Python**, and the **Laravel Framework**, I strive to combine innovative backend solutions with artificial intelligence to tackle real-world challenges.
+I’m a **Backend Developer** with experience in frontend development. With a solid foundation in **PHP**, **Python**, and the **Laravel Framework**, I strive to combine innovative backend solutions with artificial intelligence to tackle real-world challenges.
 
 ---
 
