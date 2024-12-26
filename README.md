@@ -51,27 +51,37 @@ I transitioned from being an **electronics technician** to an IT professional, b
 
 ---
 
+➤ Every day, i Post Latest Technology News & PHP Laravel Tips For You on My Linkedin Page & YouTube Channel.
+</br>
+I learn by sharing; let's grow together🤝
+</br>
+✅Follow Saber Fazliahmadi Linkedin Page & YouTube Channel for More Daily Educational #PHP=>#LARAVEL / #SYMFONY Posts.
+</br>
+🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi Linkedin Page & YouTube Channel to See All My Future Posts & Won't Miss any Updates!
+</br>
+
 ## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saberfazliahmadi/" height="30" width="40" /></a>
-</p>
-</br>
-- [LinkedIn](https://www.linkedin.com/in/saberfazliahmadi/) 
-</br>
-- [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
-</br>
-- Email: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
-</br>
-My YouTube Channel:
+
+YouTube Channel:
 </br>
 <p align="left">
 <a href="https://www.youtube.com/c/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" /></a>
 </p>
 
-➤ Every day, i Post Latest Technology News & PHP Laravel Tips For You on My Linkedin Page & YouTube Channel.
-I learn by sharing; let's grow together🤝
-✅Follow Saber Fazliahmadi Linkedin Page & YouTube Channel for More Daily Educational #PHP=>#LARAVEL / #SYMFONY Posts.
-🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi Linkedin Page & YouTube Channel to See All My Future Posts & Won't Miss any Updates!
+LinkedIn:
+</br>
+</br>
+<p align="left">
+  <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saberfazliahmadi/" height="30" width="40" /></a>
+</p>
+https://www.linkedin.com/in/saberfazliahmadi/
+[linkedin](https://www.linkedin.com/in/saberfazliahmadi)
+</br>
+
+- Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
+</br>
+- Email: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
+</br>
 
 ---
 
