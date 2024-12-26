@@ -67,6 +67,8 @@ My YouTube Channel:
 <p align="left">
 <a href="https://www.youtube.com/c/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" /></a>
 </p>
+https://www.youtube.com/c/@saberfazliahmadi
+</br>
 
 My LinkedIn Page:
 </br>
@@ -80,7 +82,7 @@ https://www.linkedin.com/in/saberfazliahmadi/
 - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 </br>
 
-Email: ahmadi.saber.germany@gmail.com
+My Email Address: ahmadi.saber.germany@gmail.com
 </br>
 
 
