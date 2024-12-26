@@ -75,16 +75,12 @@ LinkedIn:
 </p>
 https://www.linkedin.com/in/saberfazliahmadi/
 </br>
+</br>
 
 - Google Scholar: [Google Scholar](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 </br>
-
-
-</br>
 - Email: ahmadi.saber.germany@gmail.com
-
 </br>
-
 ---
 
 ## 📊 GitHub Stats:
