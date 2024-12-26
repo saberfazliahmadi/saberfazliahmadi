@@ -13,6 +13,14 @@ I learn by sharing; let's grow together🤝
 </br>
 
 ## 🌐 Follow My GitHub Profile & Linkedin Page & YouTube Channel & Connect with Me:
+My GitHub PHP => LARAVEL TIPS Repository:
+</br>
+<p align="left">
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@saberfazliahmadi" height="30" width="40" /></a>
+</p>
+https://github.com/saberfazliahmadi/Laravel-Tips
+</br>
+</br>
 
 My YouTube Channel:
 </br>
