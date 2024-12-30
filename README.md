@@ -21,13 +21,13 @@ My GitHub PHP => LARAVEL TIPS Repository:
 https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 </br>
-📚 Contents
+📚 Contents:
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >[Eloquent Relationships](./tips/001-eloquent-relationships.md)</a>
+1- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >[Eloquent Relationships](./tips/001-eloquent-relationships.md)</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >[Query Optimization](./tips/002-query-optimization.md)</a>
+2- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >[Query Optimization](./tips/002-query-optimization.md)</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
+3- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
 </br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips" >[More Tips...](./tips/)</a>
 </br>
