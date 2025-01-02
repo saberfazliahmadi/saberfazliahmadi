@@ -29,6 +29,8 @@ https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 3- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
 </br>
+4- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >[Simplify Cache Management with php artisan optimize:clear](./tips/004-use-optimize-clear-command.md)</a>
+</br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips" >[More Tips...](./tips/)</a>
 </br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >[Contributing Guidelines](./CONTRIBUTING.md)</a>
