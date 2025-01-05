@@ -31,7 +31,7 @@ https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 4- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >[Simplify Cache Management with php artisan optimize:clear](./tips/004-use-optimize-clear-command.md)</a>
 </br>
-5- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >[Cleaner Queries with Relationships](./tips/004-use-optimize-clear-command.md)</a>
+5- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >[Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)</a>
 </br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips" >[More Tips...](./tips/)</a>
 </br>
