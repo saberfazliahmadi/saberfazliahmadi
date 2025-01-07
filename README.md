@@ -83,17 +83,16 @@ My Telegram Channel:
 
 - **[Spam Detection Using Decision Tree and TF-IDF](https://github.com/saberfazliahmadi/spam-detection-tfidf)**:  
   A text classification pipeline that uses TF-IDF for feature extraction and a Decision Tree Classifier to identify spam messages. This project highlights expertise in natural language processing and machine learning workflows.
-
 ---
-
-## 🌐 Connect with Me  
-- 📧 **Email**: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
----
-
 ## 📚 Academic Contributions:
  View my research contributions, publications, and academic work on:
   - [Google Scholar Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
   - [Research Gate Profile](https://www.researchgate.net/profile/Saber-Fazliahmadi)
+---
+---
+
+## 🌐 Connect with Me  
+- 📧 **Email**: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
 ---
 
 ## 💼 About Me
