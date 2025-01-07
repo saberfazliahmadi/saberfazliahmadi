@@ -21,20 +21,27 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 💡https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 </br>
-🔔 Follow me and turn on notifications to never miss updates!  
+🔔 Follow me and turn on notifications to never miss updates!
+</br>
 📚 LARAVEL TIPS Repository Contents:
 </br>
 ### 🌟 Featured Tips:
-1. 💡 [Eloquent Relationships](./tips/001-eloquent-relationships.md)  
-2. 💡 [Query Optimization](./tips/002-query-optimization.md)  
-3. 💡 [Avoid Model Methods for Data Retrieval](./tips/003-dont-use-model-methods-for-retrieving-data.md)  
-4. 💡 [Simplify Cache Management](./tips/004-use-optimize-clear-command.md)  
-5. 💡 [Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)  
-➡️ [More Tips...](./tips/) 
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >[Contributing Guidelines](./CONTRIBUTING.md)</a>
+- 1 💡 <a href="./tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >[License](./LICENSE)</a>
+- 2 💡 <a href="./tips/002-query-optimization.md" >Query Optimization</a>
+</br>
+- 3 💡 <a href="003-dont-use-model-methods-for-retrieving-data.md" >Avoid Model Methods for Data Retrieval</a>
+</br>
+- 4 💡 <a href="004-use-optimize-clear-command.md" >Simplify Cache Management</a>  
+</br>
+- 5 💡 <a href="005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
+</br>
+- ➡️ <a href="./tips/" >[More Tips...]</a>
+</br>
+- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️[Contributing Guidelines](./CONTRIBUTING.md)</a>
+</br>
+- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️[License](./LICENSE)</a>
 </br>
 </br>
 
