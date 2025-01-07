@@ -41,6 +41,8 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 </br>
 
+## 📚 Stay Updated with Laravel Tips & Tricks
+I post **daily PHP and Laravel tips** on: 
 My YouTube Channel:
 </br>
 <p align="left">
@@ -57,23 +59,31 @@ My LinkedIn Page:
 </p>
 https://www.linkedin.com/in/saberfazliahmadi/
 </br>
+</br>
+
 My WhatsApp Channel:
 </br>
 https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU
 <br>
+</br>
+
 My Telegram Channel:
 </br>
 https://t.me/+ZMsq1sQYqwZhZDJk
 <br>
+</br>
+
 My Google Scholar: 
 </br>
 https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en
 </br>
+</br>
+
 My Email Address:
 </br>
 ahmadi.saber.germany@gmail.com
 </br>
-
+</br>
 ---
 
 ## 💼 About Me
