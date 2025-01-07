@@ -42,26 +42,26 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 I post daily PHP and Laravel tips on: 
 </br>
 </br>
-My YouTube Channel:
 <p align="left">
+My YouTube Channel:
 <a href="https://www.youtube.com/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" />https://www.youtube.com/@saberfazliahmadi</a>
 </p>
 </br>
 
-My LinkedIn Page:
 <p align="left">
+  My LinkedIn Page:
   <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saberfazliahmadi/" height="30" width="40" />https://www.linkedin.com/in/saberfazliahmadi/</a>
 </p>
 </br>
 
-My WhatsApp Channel:
 <p align="left">
+  My WhatsApp Channel:
   <a href="https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Channel" height="30" width="40" />https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU</a>
 </p>
 </br>
 
-My Telegram Channel:
 <p align="left">
+  My Telegram Channel:
   <a href="https://t.me/+ZMsq1sQYqwZhZDJk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="40" />https://t.me/+ZMsq1sQYqwZhZDJk</a>
 </p>
 </br>
