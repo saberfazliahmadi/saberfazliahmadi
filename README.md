@@ -89,7 +89,6 @@ My Telegram Channel:
   - [Google Scholar Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
   - [Research Gate Profile](https://www.researchgate.net/profile/Saber-Fazliahmadi)
 ---
----
 
 ## 🌐 Connect with Me  
 - 📧 **Email**: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
