@@ -58,15 +58,18 @@ My LinkedIn Page:
 
 My WhatsApp Channel:
 </br>
-https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU
-</br>
+<p align="left">
+  <a href="https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Channel" height="30" width="40" />https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU</a>
+</p>
 </br>
 
 My Telegram Channel:
 </br>
-https://t.me/+ZMsq1sQYqwZhZDJk
+<p align="left">
+  <a href="https://t.me/+ZMsq1sQYqwZhZDJk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="40" />https://t.me/+ZMsq1sQYqwZhZDJk</a>
+</p>
 </br>
-</br>
+
 
 ---
 
