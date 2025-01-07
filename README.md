@@ -21,11 +21,7 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 💡https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 </br>
-🔔 Follow me and turn on notifications to never miss updates!
-</br>
 📚 LARAVEL TIPS Repository Contents:
-</br>
-### 🌟 Featured Tips:
 </br>
 - 1 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
 </br>
@@ -46,6 +42,7 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 
 ## 📚 Stay Updated with Laravel Tips & Tricks
+🔔 Follow me and turn on notifications to never miss updates!
 I post **daily PHP and Laravel tips** on: 
 My YouTube Channel:
 </br>
