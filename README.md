@@ -68,18 +68,10 @@ https://t.me/+ZMsq1sQYqwZhZDJk
 </br>
 </br>
 
-My Google Scholar: 
-</br>
-https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en
-</br>
-</br>
-
-My Email Address:
-</br>
-ahmadi.saber.germany@gmail.com
-</br>
-</br>
-
+---
+## 🌐 Connect with Me  
+- 📧 **Email**: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
+- **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 ---
 
 ## 💼 About Me
