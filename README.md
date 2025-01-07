@@ -27,21 +27,21 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 ### 🌟 Featured Tips:
 </br>
-- 1 💡 <a href="./tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
+- 1 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
 </br>
-- 2 💡 <a href="./tips/002-query-optimization.md" >Query Optimization</a>
+- 2 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >Query Optimization</a>
 </br>
-- 3 💡 <a href="003-dont-use-model-methods-for-retrieving-data.md" >Avoid Model Methods for Data Retrieval</a>
+- 3 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >Avoid Model Methods for Data Retrieval</a>
 </br>
-- 4 💡 <a href="004-use-optimize-clear-command.md" >Simplify Cache Management</a>  
+- 4 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >Simplify Cache Management</a>  
 </br>
-- 5 💡 <a href="005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
+- 5 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
 </br>
-- ➡️ <a href="./tips/" >[More Tips...]</a>
+- ➡️ <a href="[./tips/](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/" >More Tips...</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️[Contributing Guidelines](./CONTRIBUTING.md)</a>
+- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️[License](./LICENSE)</a>
+- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
 </br>
 </br>
 
