@@ -88,16 +88,17 @@ My Telegram Channel:
 
 ## 🌐 Connect with Me  
 - 📧 **Email**: [ahmadi.saber.germany@gmail.com](mailto:ahmadi.saber.germany@gmail.com)
-- **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 ---
 
 ## 📚 Academic Contributions:
 
 - **Google Scholar**:  
   View my research contributions, publications, and academic work on:
+  <br>
   **[Google Scholar Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)**
+  <br>
   **[Research Gate Profile](https://www.researchgate.net/profile/Saber-Fazliahmadi)**
-
+  <br>
 ---
 
 ## 💼 About Me
