@@ -6,13 +6,13 @@
 I learn by sharing; let's grow together🤝
 </br>
 </br>
-✅Follow Saber Fazliahmadi GitHub Profile & Linkedin Page & YouTube Channel for More Daily Educational PHP => LARAVEL / SYMFONY Posts.
+✅Follow Saber Fazliahmadi <a href="https://github.com/saberfazliahmadi" target="blank">GitHub Profile</a> & <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank">Linkedin Page</a> & <a href="https://www.youtube.com/@saberfazliahmadi" target="blank">YouTube Channel</a> for More Daily Educational PHP => LARAVEL / SYMFONY Posts.
 </br>
 </br>
-🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi GitHub Profile & Linkedin Page & YouTube Channel to See All My Future Posts & Won't Miss any Updates!
+🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi <a href="https://github.com/saberfazliahmadi" target="blank">GitHub Profile</a> & <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank">Linkedin Page</a> & <a href="https://www.youtube.com/@saberfazliahmadi" target="blank">YouTube Channel</a> to See All My Future Posts & Won't Miss any Updates!
 </br>
 
-## 🌐 Follow My GitHub Profile & Linkedin Page & YouTube Channel & Connect with Me:
+## 🌐 Follow My <a href="https://github.com/saberfazliahmadi" target="blank">GitHub Profile</a> & <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank">Linkedin Page</a> & <a href="https://www.youtube.com/@saberfazliahmadi" target="blank">YouTube Channel</a> & Connect with Me:
 My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 <p align="left">
