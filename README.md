@@ -23,15 +23,15 @@ https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 📚 LARAVEL TIPS Repository Contents:
 </br>
-1- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >[Eloquent Relationships](./tips/001-eloquent-relationships.md)</a>
+1- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >[Eloquent Relationships](./tips/001-eloquent-relationships.md)</a>
 </br>
-2- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >[Query Optimization](./tips/002-query-optimization.md)</a>
+2- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >[Query Optimization](./tips/002-query-optimization.md)</a>
 </br>
-3- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
+3- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
 </br>
-4- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >[Simplify Cache Management with php artisan optimize:clear](./tips/004-use-optimize-clear-command.md)</a>
+4- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >[Simplify Cache Management with php artisan optimize:clear](./tips/004-use-optimize-clear-command.md)</a>
 </br>
-5- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >[Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)</a>
+5- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >[Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)</a>
 </br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips" >[More Tips...](./tips/)</a>
 </br>
