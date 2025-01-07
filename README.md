@@ -30,7 +30,7 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 5 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
 </br>
-➡️ <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >More Tips...</a>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
 </br>
