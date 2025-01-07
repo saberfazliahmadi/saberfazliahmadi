@@ -33,11 +33,11 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 - 5 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
 </br>
-- ➡️ <a href="[./tips/](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/" >More Tips...</a>
+➡️ <a href="[./tips/](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/" >More Tips...</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
 </br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
 </br>
 </br>
 
