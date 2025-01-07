@@ -57,13 +57,18 @@ My LinkedIn Page:
 </p>
 https://www.linkedin.com/in/saberfazliahmadi/
 </br>
+My WhatsApp Channel:
 </br>
-
+https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU
+<br>
+My Telegram Channel:
+</br>
+https://t.me/+ZMsq1sQYqwZhZDJk
+<br>
 My Google Scholar: 
 </br>
 https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en
 </br>
-
 My Email Address:
 </br>
 ahmadi.saber.germany@gmail.com
