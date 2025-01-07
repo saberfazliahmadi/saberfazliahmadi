@@ -91,6 +91,15 @@ My Telegram Channel:
 - **Google Scholar**: [View Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)
 ---
 
+## 📚 Academic Contributions:
+
+- **Google Scholar**:  
+  View my research contributions, publications, and academic work on:
+  **[Google Scholar Profile](https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en)**
+  **[Research Gate Profile](https://www.researchgate.net/profile/Saber-Fazliahmadi)**
+
+---
+
 ## 💼 About Me
 ```php
 <?php
