@@ -42,7 +42,6 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 
 ## 📚 Stay Updated with Laravel Tips & Tricks
-🔔 Follow me and turn on notifications to never miss updates!
 I post **daily PHP and Laravel tips** on: 
 My YouTube Channel:
 </br>
@@ -89,7 +88,6 @@ ahmadi.saber.germany@gmail.com
 ---
 
 ## 💼 About Me
-
 ```php
 <?php
 
@@ -99,46 +97,34 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'I am a Backend Developer with a solid foundation in PHP, Python, and Laravel. I also have experience combining backend solutions with artificial intelligence.';
+        return 'Backend Developer with expertise in PHP, Laravel, and AI-powered applications.';
     }
 
-    public function getMore(): array
+    public function getEducation(): array
     {
         return [
-            'work' => [
-                'Backend Developer @MatabeOnline Clinic Management Software',
-                'Contributor to AI-powered healthcare solutions',
-            ],
-            'education' => [
-                'Master\'s in Intelligent Adaptive Systems @University of Hamburg',
-                'Master\'s in Information Management @Azad University',
-                'Bachelor\'s in Electronics @Azad University',
-            ],
+            "Master's in Intelligent Adaptive Systems @University of Hamburg",
+            "Master's in Information Management @Azad University",
+            "Bachelor's in Electronics @Azad University",
         ];
     }
 
-    public function getCurrentState(): array
+    public function getCurrentFocus(): array
     {
         return [
-            'working_on' => [
-                'Enhancing backend development skills in PHP and Laravel',
-                'Collaborating on AI-integrated web applications',
-            ],
-            'learning' => [
-                'Advanced Laravel features',
-                'German (currently at A1 level)',
-            ],
+            "Enhancing Laravel backend skills",
+            "Collaborating on AI-integrated projects",
         ];
     }
 
-    public function getFutureGoal(): string
+    public function getGoal(): string
     {
-        return 'To contribute to innovative open-source projects, blending backend technologies with AI.';
+        return 'To innovate and contribute to open-source projects combining backend tech with AI.';
     }
 
     public function getFunFact(): string
     {
-        return 'I transitioned from being an electronics technician to an IT professional, blending hardware expertise with software engineering.';
+        return 'I transitioned from electronics to software engineering, blending hardware and software expertise.';
     }
 }
 
