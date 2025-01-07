@@ -39,8 +39,8 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 </br>
 
 ## 📚 Stay Updated with Laravel Tips & Tricks
-</br>
 I post daily PHP and Laravel tips on: 
+</br>
 </br>
 My YouTube Channel:
 </br>
