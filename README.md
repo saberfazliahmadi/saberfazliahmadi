@@ -21,7 +21,6 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
     💡https://github.com/saberfazliahmadi/Laravel-Tips
   </a>
 </p>
-</br>
 📚 LARAVEL TIPS Repository Contents:
 </br>
 - 1 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
