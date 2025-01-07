@@ -40,7 +40,7 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 
 ## 📚 Stay Updated with Laravel Tips & Tricks
 </br>
-I post **daily PHP and Laravel tips** on: 
+I post daily PHP and Laravel tips on: 
 </br>
 My YouTube Channel:
 </br>
