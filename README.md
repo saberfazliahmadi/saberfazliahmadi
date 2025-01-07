@@ -168,12 +168,21 @@ I transitioned from being an **electronics technician** to an IT professional, b
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberfazliahmadi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberfazliahmadi&layout=compact&theme=radical)
 
+
 ---
 
 ## 🌟 Highlighted Projects:
-- **[MatabeOnline Clinic Management Software](#)**: Contributed to backend solutions and AI-powered healthcare applications.
-- **[Dynamic AI Web Solutions](#)**: AI-integrated web platforms combining Laravel and Python.
+
+- **[Laravel Tips and Best Practices](https://github.com/saberfazliahmadi/Laravel-Tips)**:  
+  A repository packed with valuable tips and tricks for Laravel developers. It covers topics like Eloquent relationships, query optimization, and caching strategies. A must-visit for developers looking to enhance their Laravel skills with practical insights.
+
+- **[Comprehensive Machine Learning Analysis](https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering)**:  
+  This project involves an in-depth exploration of regression, classification, and clustering techniques, showcasing the application of Python and machine learning for solving real-world problems.
+
+- **[Spam Detection Using Decision Tree and TF-IDF](https://github.com/saberfazliahmadi/spam-detection-tfidf)**:  
+  A text classification pipeline that uses TF-IDF for feature extraction and a Decision Tree Classifier to identify spam messages. This project highlights expertise in natural language processing and machine learning workflows.
 
 ---
+
 
 ### Let’s collaborate and build something impactful together! 🚀
