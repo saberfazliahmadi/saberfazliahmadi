@@ -21,19 +21,16 @@ My GitHub PHP => LARAVEL TIPS Repository Link:
 💡https://github.com/saberfazliahmadi/Laravel-Tips
 </br>
 </br>
+🔔 Follow me and turn on notifications to never miss updates!  
 📚 LARAVEL TIPS Repository Contents:
 </br>
-1- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >[Eloquent Relationships](./tips/001-eloquent-relationships.md)</a>
-</br>
-2- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >[Query Optimization](./tips/002-query-optimization.md)</a>
-</br>
-3- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)</a>
-</br>
-4- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >[Simplify Cache Management with php artisan optimize:clear](./tips/004-use-optimize-clear-command.md)</a>
-</br>
-5- 💡<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >[Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)</a>
-</br>
-- <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips" >[More Tips...](./tips/)</a>
+### 🌟 Featured Tips:
+1. 💡 [Eloquent Relationships](./tips/001-eloquent-relationships.md)  
+2. 💡 [Query Optimization](./tips/002-query-optimization.md)  
+3. 💡 [Avoid Model Methods for Data Retrieval](./tips/003-dont-use-model-methods-for-retrieving-data.md)  
+4. 💡 [Simplify Cache Management](./tips/004-use-optimize-clear-command.md)  
+5. 💡 [Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)  
+➡️ [More Tips...](./tips/) 
 </br>
 - <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >[Contributing Guidelines](./CONTRIBUTING.md)</a>
 </br>
@@ -64,13 +61,13 @@ https://www.linkedin.com/in/saberfazliahmadi/
 My WhatsApp Channel:
 </br>
 https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU
-<br>
+</br>
 </br>
 
 My Telegram Channel:
 </br>
 https://t.me/+ZMsq1sQYqwZhZDJk
-<br>
+</br>
 </br>
 
 My Google Scholar: 
@@ -84,6 +81,7 @@ My Email Address:
 ahmadi.saber.germany@gmail.com
 </br>
 </br>
+
 ---
 
 ## 💼 About Me
