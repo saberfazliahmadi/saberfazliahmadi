@@ -101,16 +101,15 @@ My YouTube Channel:
 ## 💼 About Me
 ```php
 <?php
-
 namespace SaberFazliahmadi;
 
 class About extends Me
 {
     public function getBio(): string
     {
-        return 'Backend Developer with expertise in PHP, Laravel, and AI-powered applications.';
+        return 'Backend Developer & Data Analyst with expertise in PHP, Laravel, AI, and Data Science.';
     }
-
+    
     public function getEducation(): array
     {
         return [
@@ -123,25 +122,15 @@ class About extends Me
     public function getCurrentFocus(): array
     {
         return [
-            "Enhancing Laravel backend skills",
-            "Collaborating on AI-integrated projects",
+            "Enhancing Laravel backend & Data Science skills",
+            "Collaborating on AI & Data-driven projects",
         ];
-    }
-
-    public function getGoal(): string
-    {
-        return 'To innovate and contribute to open-source projects combining backend tech with AI.';
-    }
-
-    public function getFunFact(): string
-    {
-        return 'I transitioned from electronics to software engineering, blending hardware and software expertise.';
     }
 }
 
 ```
 
-I’m a **Backend Developer** with experience in frontend development. With a solid foundation in **PHP**, **Python**, and the **Laravel Framework**, I strive to combine innovative backend solutions with artificial intelligence to tackle real-world challenges.
+I’m a **Backend Developer & Data Analyst** with experience in **PHP, Python, Laravel**, and **Machine Learning**. I aim to integrate backend solutions with **data-driven decision-making** to create impactful applications.
 
 ---
 
@@ -203,8 +192,6 @@ I transitioned from being an **electronics technician** to an IT professional, b
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberfazliahmadi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberfazliahmadi&layout=compact&theme=radical)
 
-
 ---
-
 
 ### Let’s collaborate and build something impactful together! 🚀
