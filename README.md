@@ -79,9 +79,6 @@ My YouTube Channel:
 
 ## 🌟 Highlighted Projects:
 
-- **[Healthcare Analytics Dashboard for German Krankenkassen](https://github.com/saberfazliahmadi/Healthcare-Analytics-Krankenkassen)**:  
-  Simulates and analyzes healthcare data for German Krankenkassen using Python, SQL, and ML. Demonstrates EDA, visualization, and predictive modeling.
-  
 - **[Laravel Tips and Best Practices](https://github.com/saberfazliahmadi/Laravel-Tips)**:  
   A repository packed with valuable tips and tricks for Laravel developers. It covers topics like Eloquent relationships, query optimization, and caching strategies. A must-visit for developers looking to enhance their Laravel skills with practical insights.
 
