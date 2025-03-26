@@ -109,23 +109,23 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'Data Analyst & Backend Developer with expertise in PHP, Laravel, AI, and Machine Learning.';
+        return 'A curious Data Analyst & Backend Developer crafting solutions with PHP, Laravel, AI, and Machine Learning.';
     }
     
     public function getEducation(): array
     {
         return [
-            "Master's in Intelligent Adaptive Systems @University of Hamburg (Ongiong)",
-            "Master's in Information Management @Azad University",
-            "Bachelor's in Electronics @Azad University",
+            'Currently chasing a Master’s in Intelligent Adaptive Systems @ Universität Hamburg',
+            'Master’s in Information Technology Management (Information Resources Management) @ Azad University',
+            'Bachelor’s in Electrical Engineering (Control) @ Azad University',
         ];
     }
 
     public function getCurrentFocus(): array
     {
         return [
-            "Collaborating on AI & Data-driven projects",
-            "Enhancing Laravel backend & Data Science skills",
+            'Teaming up on AI-powered and data-driven projects',
+            'Leveling up my Laravel backend and Data Science game',
         ];
     }
 }
