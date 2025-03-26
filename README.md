@@ -109,13 +109,13 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'Backend Developer & Data Analyst with expertise in PHP, Laravel, AI, and Data Science.';
+        return 'Data Analyst & Backend Developer with expertise in PHP, Laravel, AI, and Machine Learning.';
     }
     
     public function getEducation(): array
     {
         return [
-            "Master's in Intelligent Adaptive Systems @University of Hamburg",
+            "Master's in Intelligent Adaptive Systems @University of Hamburg (Ongiong)",
             "Master's in Information Management @Azad University",
             "Bachelor's in Electronics @Azad University",
         ];
@@ -124,35 +124,41 @@ class About extends Me
     public function getCurrentFocus(): array
     {
         return [
-            "Enhancing Laravel backend & Data Science skills",
             "Collaborating on AI & Data-driven projects",
+            "Enhancing Laravel backend & Data Science skills",
         ];
     }
 }
 
 ```
 
-I’m a **Backend Developer & Data Analyst** with experience in **PHP, Python, Laravel**, and **Machine Learning**. I aim to integrate backend solutions with **data-driven decision-making** to create impactful applications.
+A Data Analyst with expertise in SQL, Python, Power BI, and Tableau, who has built dashboards, modeling, and visualizations that reduced errors by 17% and improved clinical workflow efficiency by 12%. Skilled in analyzing complex datasets to uncover actionable insights, with a background in Machine Learning, Database Optimization, and software development (Back-End & Front-End), combined with sales experience, providing a well-rounded approach to data-driven decision-making. Passionate about data storytelling and visualization, currently pursuing a Master’s in Intelligent Adaptive Systems at Universität Hamburg while improving German skills and seeking a Data Analyst position in Germany.
+
+I’m also a PHP Laravel developer with skills in clean coding, SOLID principles, design patterns, PHPUnit testing, OOP, modular programming, and agile methodologies. I’ve tried front-end development, and I have a background in electrical engineering. This mix helps me bring different ideas together.
 
 ---
 
 ## 💼 I'm currently working on:
-Enhancing my skills in backend development using **PHP**, **Python**, and the **Laravel Framework** while contributing to a collaborative healthcare project powered by artificial intelligence at **MatabeOnline Clinic Management Software**.
+Enhancing my skills in Data Analysis using **Tableau**, **Power BI**, **SQL** & also enhancing my skills in Backend Development using **PHP**, **Python**, and the **Laravel Framework** while contributing to a collaborative healthcare project powered by artificial intelligence at **MatabeOnline Clinic Management Software**.
 
 ---
 
 ## 🤝 I'm looking to collaborate on:
-- Innovative web applications or backend solutions powered by AI models.
+- Data Analyst positions.
 - Projects that combine artificial intelligence with backend technologies.
+- Innovative web applications or backend solutions powered by AI models.
 
 ---
 
-## 🛠️ I'm looking for help with:
-Expanding my expertise in **advanced Laravel features** and deepening my proficiency in **PHP backend programming**.
-
+## 🛠️ I'm Looking for Help With:
+- Expanding My Expertise in Data Analysis: I’m keen to level up my skills in analyzing complex datasets, focusing on advanced techniques like predictive modeling, machine learning integration, and data-driven decision-making.
+- Deepening My Proficiency in Data Analytics & PHP Backend Programming: I aim to blend data analytics with backend development to create efficient, scalable solutions that deliver real insights.
+- Mastering Advanced Laravel Features: I’m building robust backend systems and want to deepen my understanding of Laravel’s powerful tools, such as queue management, API development, and performance optimization.
+- I’m passionate about growing in these areas and would love any advice, resources, or collaboration opportunities you can share. If you’re experienced in these fields or know great learning materials, please reach out—I’d be excited to connect and learn together!
 ---
 
 ## 💬 Ask me about:
+- Data Analyst | Tableau | Power BI | SQL | Business Insights
 - Developing **PHP solutions** powered by artificial intelligence.
 - Optimizing **Laravel frameworks**.
 - Implementing **clean code practices**.
@@ -161,8 +167,7 @@ Expanding my expertise in **advanced Laravel features** and deepening my profici
 ---
 
 ## ⚡ Fun Fact:
-I transitioned from being an **electronics technician** to an IT professional, blending my hardware expertise with software engineering to create innovative and efficient solutions.
-
+I started as an electronics technician, fixing radios and circuits with my hands. Now, I’m a Data Analysis and IT professional, working with data and software. I switched from hardware to coding and love combining these skills. For example, I can look at data from machines, write code to improve how they run, and check the results to make them even better. Solving tech problems this way is so much fun!
 ---
 
 ## 🚀 Skills and Expertise:
