@@ -65,8 +65,11 @@ My YouTube Channel:
 </br>
 
 <p align="left">
-  My Kaggle page:
-  <a href="https://www.kaggle.com/saberfazliahmadi" target="blank"><img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="My Kaggle page" height="30" width="40" style="margin-left:15px;margin-right:15px;" />https://www.kaggle.com/saberfazliahmadi</a>
+  My Kaggle page: &nbsp; 
+  <a href="https://www.kaggle.com/saberfazliahmadi" target="_blank">
+    <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="My Kaggle page" height="30" width="40" />
+    &nbsp; https://www.kaggle.com/saberfazliahmadi
+  </a>
 </p>
 </br>
 
