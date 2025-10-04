@@ -65,7 +65,7 @@ My YouTube Channel:
 </br>
 
 <p align="left">
-  My Kaggle page: &nbsp; 
+  My Kaggle page: 
   <a href="https://www.kaggle.com/saberfazliahmadi" target="_blank">
     <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="My Kaggle page" height="30" width="40" />
     &nbsp; https://www.kaggle.com/saberfazliahmadi
