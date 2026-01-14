@@ -140,18 +140,14 @@ class About extends Me
 
 ```
 
-The Core Value I Bring:
-<br>
-I don't just write code; I build reliable systems. I bridge the gap between modern frontend interfaces and robust backend logic, ensuring applications are scalable and easy to debug.
-<br>
-Technical Focus:
-<br>
-🔹 Frontend: Specialist in React ecosystem (Hooks, Router, State Management). I build reusable components and responsive UIs with a focus on performance and strict typing via TypeScript.
-<br>
-🔹 Backend: Experienced with PHP 8 / Laravel. I design RESTful APIs, manage MySQL/PostgreSQL databases, and adhere to SOLID principles and OOP standards.
-<br>
-🔹 AI Engineering: I turn "AI hype" into usable product features. I have experience connecting web apps to ML models (e.g., Python endpoints, OpenAI API, LLMs) to create smart features like predictive analytics and automated content generation within the UI.
-<br>
+<p>The Core Value I Bring:</p>
+<p>I don't just write code; I build reliable systems. I bridge the gap between modern frontend interfaces and robust backend logic, ensuring applications are scalable and easy to debug.</p>
+
+<p>Technical Focus:</p>
+<p>🔹 Frontend: Specialist in React ecosystem (Hooks, Router, State Management). I build reusable components and responsive UIs with a focus on performance and strict typing via TypeScript.</p>
+<p>🔹 Backend: Experienced with PHP 8 / Laravel. I design RESTful APIs, manage MySQL/PostgreSQL databases, and adhere to SOLID principles and OOP standards.</p>
+<p>🔹 AI Engineering: I turn "AI hype" into usable product features. I have experience connecting web apps to ML models (e.g., Python endpoints, OpenAI API, LLMs) to create smart features like predictive analytics and automated content generation within the UI.</p>
+
 ---
 
 ## 💼 I'm currently working on:
