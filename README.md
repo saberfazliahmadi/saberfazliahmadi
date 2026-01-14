@@ -1,5 +1,5 @@
-# Hi there, I'm Saber Fazliahmadi 👋
-
+<div align="center"> <h1 align="center">Hi, I'm Saber Fazliahmadi 👋</h1> <h3>Full Stack Developer (React & Laravel) | AI Integration Specialist</h3> <p>Based in <b>Hamburg, Germany 🇩🇪</b></p> <p><i>Master’s Student in Intelligent Adaptive Systems @ Universität Hamburg</i></p>
+  
 🔰 ➤ Every day, i Post Latest PHP => Laravel Tips For You on My <a href="https://github.com/saberfazliahmadi" target="blank">GitHub Profile</a> & <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank">Linkedin Page</a> & <a href="https://www.youtube.com/@saberfazliahmadi" target="blank">YouTube Channel</a>.
 </br>
 </br>
@@ -118,7 +118,7 @@ class About extends Me
 {
     public function getBio(): string
     {
-        return 'A curious Data Analyst & Backend Developer crafting solutions with PHP, Laravel, AI, and Machine Learning.';
+        return 'I am a Full Stack Developer combining solid web engineering (React, Laravel) with applied AI integration.';
     }
     
     public function getEducation(): array
@@ -141,33 +141,33 @@ class About extends Me
 
 ```
 
-A Data Analyst with expertise in SQL, Python, Power BI, and Tableau, who has built dashboards, modeling, and visualizations that reduced errors by 17% and improved clinical workflow efficiency by 12%. Skilled in analyzing complex datasets to uncover actionable insights, with a background in Machine Learning, Database Optimization, and software development (Back-End & Front-End), combined with sales experience, providing a well-rounded approach to data-driven decision-making. Passionate about data storytelling and visualization, currently pursuing a Master’s in Intelligent Adaptive Systems at Universität Hamburg while improving German skills and seeking a Data Analyst position in Germany.
+The Core Value I Bring:
+I don't just write code; I build reliable systems. I bridge the gap between modern frontend interfaces and robust backend logic, ensuring applications are scalable and easy to debug.
 
-I’m also a PHP Laravel developer with skills in clean coding, SOLID principles, design patterns, PHPUnit testing, OOP, modular programming, and agile methodologies. I’ve tried front-end development, and I have a background in electrical engineering. This mix helps me bring different ideas together.
+Technical Focus:
+🔹 Frontend: Specialist in React ecosystem (Hooks, Router, State Management). I build reusable components and responsive UIs with a focus on performance and strict typing via TypeScript.
+🔹 Backend: Experienced with PHP 8 / Laravel. I design RESTful APIs, manage MySQL/PostgreSQL databases, and adhere to SOLID principles and OOP standards.
+🔹 AI Engineering: I turn "AI hype" into usable product features. I have experience connecting web apps to ML models (e.g., Python endpoints, OpenAI API, LLMs) to create smart features like predictive analytics and automated content generation within the UI.
 
 ---
 
 ## 💼 I'm currently working on:
-Enhancing my skills in Data Analysis using **Tableau**, **Power BI**, **SQL** & also enhancing my skills in Backend Development using **PHP**, **Python**, and the **Laravel Framework** while contributing to a collaborative healthcare project powered by artificial intelligence at **MatabeOnline Clinic Management Software**.
+React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 
 ---
 
 ## 🤝 I'm looking to collaborate on:
-- Data Analyst positions.
-- Projects that combine artificial intelligence with backend technologies.
-- Innovative web applications or backend solutions powered by AI models.
+- Projects that combine artificial intelligence with backend & frontend technologies.
+- Innovative web applications powered by AI models.
 
 ---
 
 ## 🛠️ I'm Looking for Help With:
-- Expanding My Expertise in Data Analysis: I’m keen to level up my skills in analyzing complex datasets, focusing on advanced techniques like predictive modeling, machine learning integration, and data-driven decision-making.
-- Deepening My Proficiency in Data Analytics & PHP Backend Programming: I aim to blend data analytics with backend development to create efficient, scalable solutions that deliver real insights.
-- Mastering Advanced Laravel Features: I’m building robust backend systems and want to deepen my understanding of Laravel’s powerful tools, such as queue management, API development, and performance optimization.
-- I’m passionate about growing in these areas and would love any advice, resources, or collaboration opportunities you can share. If you’re experienced in these fields or know great learning materials, please reach out—I’d be excited to connect and learn together!
+
 ---
 
 ## 💬 Ask me about:
-- Data Analyst | Tableau | Power BI | SQL | Business Insights
+-  React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 - Developing **PHP solutions** powered by artificial intelligence.
 - Optimizing **Laravel frameworks**.
 - Implementing **clean code practices**.
