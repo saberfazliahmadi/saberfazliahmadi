@@ -133,8 +133,7 @@ class About extends Me
     public function getCurrentFocus(): array
     {
         return [
-            'Teaming up on AI-powered and data-driven projects',
-            'Leveling up my Laravel backend and Data Science game',
+            'Teaming up on AI-powered projects'
         ];
     }
 }
@@ -162,10 +161,6 @@ React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 
 ---
 
-## 🛠️ I'm Looking for Help With:
-
----
-
 ## 💬 Ask me about:
 -  React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 - Developing **PHP solutions** powered by artificial intelligence.
@@ -176,21 +171,13 @@ React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 ---
 
 ## ⚡ Fun Fact:
-- I started as an electronics technician, fixing radios and circuits with my hands. Now, I’m a Data Analysis and IT professional, working with data and software. I switched from hardware to coding and love combining these skills. For example, I can look at data from machines, write code to improve how they run, and check the results to make them even better. Solving tech problems this way is so much fun!
+- I started as an electronics technician, fixing radios and circuits with my hands. Now, I’m a Full Stack web developer. I switched from hardware to coding and love combining these skills. Solving tech problems this way is so much fun!
 ---
 
 ## 🚀 Skills and Expertise:
 
-### **Data Analysis & Business Intelligence:**
-- **Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering**
-- **Data Visualization with Tableau, Power BI, Seaborn, Matplotlib**
-- **Statistical Modeling (Regression, A/B Testing, Hypothesis Testing, Probability Distributions)**
-- **Machine Learning (Supervised & Unsupervised Learning, Decision Trees, Clustering, Neural Networks)**
-- **Big Data & Cloud Analytics (AWS, Azure, SQL Databases, Excel Power Query)**
-
-### **Programming Languages:**
-- PHP (Laravel, Symfony), Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, HTML, CSS
-- **Frameworks:** Laravel, Bootstrap, PyTorch
+- **Programming Languages:**  TypeScript, JavaScript, PHP (Laravel, Symfony), Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL, HTML, CSS
+- **Frameworks:** React, Laravel, Bootstrap, PyTorch
 - **Database:** MySQL
 - **Key Concepts:** OOP, MVC, Modular Programming, Design Patterns, SOLID Principles, PHPUnit Testing, Agile Project Management (Scrum)
 - **Artificial Intelligence:** Machine Learning, Deep Learning, Neural Networks, NEAT, Genetic Algorithms
