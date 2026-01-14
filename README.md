@@ -190,11 +190,4 @@ React • TypeScript • JavaScript • PHP • Laravel | AI Integration & LLMs
 
 ---
 
-
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saberfazliahmadi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saberfazliahmadi&layout=compact&theme=radical)
-
----
-
 ### Let’s collaborate and build something impactful together! 🚀
