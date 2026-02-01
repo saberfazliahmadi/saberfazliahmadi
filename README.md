@@ -90,6 +90,9 @@ My YouTube Channel:
 
 ## 🌟 Highlighted Projects:
 
+- **[MatabeOnline - AI-Powered Disease Diagnosis System](https://matabeonline.ir/ai_re_en.html)**: 
+  A comprehensive full-stack clinic management system featuring advanced machine learning for intelligent disease prediction, built with PHP, Laravel, React, TypeScript, and Python AI services.
+
 - **[Laravel Tips and Best Practices](https://github.com/saberfazliahmadi/Laravel-Tips)**:  
   A repository packed with valuable tips and tricks for Laravel developers. It covers topics like Eloquent relationships, query optimization, and caching strategies. A must-visit for developers looking to enhance their Laravel skills with practical insights.
 
