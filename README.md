@@ -339,7 +339,7 @@ I am interested in intelligent systems that must perform in **realistic, high-st
   </tr>
 </table>
 
-<details>
+<details open>
 <summary><b>📚 Sample tips from the Laravel collection</b></summary>
 
 <br/>
@@ -425,7 +425,7 @@ I am interested in intelligent systems that must perform in **realistic, high-st
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌍 Languages</b></summary>
 
 <br/>
