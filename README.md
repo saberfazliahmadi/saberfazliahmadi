@@ -3,11 +3,11 @@
 <!-- ===================== HERO ===================== -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Saber%20Fazliahmadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20PhD%20Researcher-in-Training&descAlignY=58&descSize=15" alt="Saber Fazliahmadi GitHub banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Saber%20Fazliahmadi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Applied%20AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Prospective%20PhD%20Researcher&descAlignY=58&descSize=15" alt="Saber Fazliahmadi GitHub banner" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=900&lines=M.Sc.+Intelligent+Adaptive+Systems+%E2%80%A2+Universit%C3%A4t+Hamburg;IEEE+TPDS+author+%E2%80%A2+200%2B+citations+%E2%80%A2+h-index+2;Healthcare+AI+%E2%80%A2+NLP+%E2%80%A2+Full-stack+systems+%E2%80%A2+6%2B+years+industry;Open+to+PhD+positions+in+AI+%2F+ML+%2F+NLP+across+Germany" alt="Typing animation introducing Saber Fazliahmadi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=900&lines=M.Sc.+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;IEEE+TPDS+author+%E2%80%A2+207%2B+citations+%E2%80%A2+h-index+2;Healthcare+software+%E2%80%A2+NLP+%E2%80%A2+ML+pipelines+%E2%80%A2+Full-stack+systems;Open+to+PhD%2C+research%2C+HiWi%2C+and+AI-engineering+opportunities" alt="Typing animation introducing Saber Fazliahmadi" />
 </a>
 
 <br/>
@@ -16,26 +16,38 @@
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-200%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar citations" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-207%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar citations" />
   </a>
   <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE TPDS publication" />
   <img src="https://img.shields.io/badge/h--index-2-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="h-index 2" />
-  <img src="https://img.shields.io/badge/Hamburg%2C%20DE-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hamburg, Germany" />
+  <img src="https://img.shields.io/badge/Hamburg%2C%20Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Hamburg, Germany" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-PhD%20%E2%80%A2%20Research%20%E2%80%A2%20AI%20Engineering-22C55E?style=for-the-badge" alt="Open to PhD, research, AI engineering" />
+  <img src="https://img.shields.io/badge/Open%20to-PhD%20%7C%20Research%20%7C%20HiWi%20%7C%20AI%20Engineering-22C55E?style=for-the-badge" alt="Open to PhD, research, HiWi, and AI engineering opportunities" />
 </p>
 
 <!-- ===================== CONTACT ROW ===================== -->
 
 <p>
-  <a href="https://www.linkedin.com/in/saberfazliahmadi/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:saber.fazliahmadi@studium.uni-hamburg.de"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://www.researchgate.net/profile/Saber-Fazliahmadi"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" /></a>
-  <a href="https://www.kaggle.com/saberfazliahmadi"><img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.youtube.com/@saberfazliahmadi"><img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/saberfazliahmadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saber.fazliahmadi@studium.uni-hamburg.de">
+    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Saber-Fazliahmadi">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  </a>
+  <a href="https://www.kaggle.com/saberfazliahmadi">
+    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  <a href="https://www.youtube.com/@saberfazliahmadi">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=saberfazliahmadi&style=flat-square&color=4F8EF7&label=Profile+views" alt="Profile views" />
 </p>
 
@@ -44,7 +56,12 @@
 **Applied AI / ML Engineer · Full-Stack Developer · Research-Oriented Software Builder**
 
 I build practical, reliable, and intelligent software systems by combining  
-**Python, PyTorch, NLP, React, TypeScript, Laravel, and rigorous research thinking.**
+**Python, Machine Learning, NLP, React, TypeScript, Laravel, SQL, and research-driven engineering.**
+
+<br/>
+
+If you arrived here from LinkedIn, welcome.  
+Explore my repositories, follow my GitHub profile, and star the projects you find useful ⭐
 
 </div>
 
@@ -52,77 +69,103 @@ I build practical, reliable, and intelligent software systems by combining
 
 ## 🎯 At a Glance
 
-> **M.Sc. researcher in Intelligent Adaptive Systems at Universität Hamburg.** I work at the intersection of **applied machine learning, NLP, and production-grade software engineering** — with six years of healthcare-AI industry experience and an IEEE TPDS journal article cited **200+ times**. Currently building AI-driven clinical data pipelines, and actively applying for **PhD positions in AI / ML / NLP across Germany**.
+> I am an **M.Sc. student in Intelligent Adaptive Systems at Universität Hamburg**, based in Hamburg, Germany. My work sits at the intersection of **applied machine learning, NLP, healthcare software, and full-stack engineering**. I combine academic research experience, production software development, and practical AI integration.
 
 | | |
 |---|---|
-| 🎓 **Education** | M.Sc. Intelligent Adaptive Systems — Universität Hamburg *(ongoing)* |
-| 📚 **Research output** | IEEE TPDS journal article *(200+ citations)* · conference papers · 2 authored books |
-| 🧑‍💻 **Industry experience** | 6+ years building production healthcare-AI software *(full-stack + ML)* |
-| 🔬 **Current research** | UKE AI Pipeline for Smarter Premedication — clinical ML at UKE Hamburg |
-| 🛠️ **Core stack** | Python · PyTorch · Scikit-learn · React · TypeScript · Laravel · PostgreSQL |
-| 🇩🇪 **Looking for** | PhD positions · HiWi / research assistant roles · applied AI engineering |
+| 🎓 **Education** | M.Sc. Intelligent Adaptive Systems, Universität Hamburg |
+| 📚 **Research output** | IEEE TPDS journal article, conference papers, 2 authored books |
+| 📊 **Research metrics** | 207+ Google Scholar citations, h-index 2 |
+| 🧑‍💻 **Industry background** | Healthcare software, full-stack development, data analysis, ML engineering |
+| 🔬 **Current academic direction** | AI-driven clinical data pipelines and intelligent adaptive systems |
+| 🛠️ **Core stack** | Python, PyTorch, Scikit-learn, React, TypeScript, Laravel, PostgreSQL, MySQL |
+| 🇩🇪 **Currently looking for** | PhD positions, HiWi roles, research assistant roles, AI engineering roles |
 
 ---
 
 ## 👋 Welcome
 
-I'm an **M.Sc. student in Intelligent Adaptive Systems at Universität Hamburg**, based in Hamburg, Germany. My work connects three worlds — **full-stack software engineering**, **applied machine learning**, and **research-oriented problem solving**.
+I am a **research-oriented Full-Stack Developer and Applied AI/ML Engineer** with a background in software engineering, healthcare systems, and intelligent adaptive systems.
 
-I've shipped healthcare-AI software in industry, contributed to peer-reviewed research with 200+ citations, and authored two books on robotics and information technology. I enjoy moving fluently between abstraction and implementation: understanding the research idea, designing the architecture, training the model, building the prototype, and shipping a system that actually works for real users.
+My strongest professional direction is building **AI-enabled software that is useful, maintainable, explainable, and connected to real human needs**.
 
-> ⭐ If you arrived here from LinkedIn — welcome. Explore my repositories, **follow** to see new work, and **star** projects you find useful.
+I enjoy moving between idea and implementation:
+
+- understanding the research problem
+- designing the software architecture
+- preparing and analyzing data
+- training or integrating ML models
+- building backend APIs
+- creating usable frontend interfaces
+- documenting the system clearly
+
+This GitHub profile is both my **technical portfolio** and my **research engineering notebook**.
 
 ---
 
 ## 🧬 My Journey
 
-My path started with a Bachelor's in **Electrical Engineering**, where the complexity of digital circuits taught me to think like an engineer — break problems down, trace signals through layered systems, find the failure point, redesign. That same instinct carried directly into software. Years later, as a frontend, backend, and then full-stack developer, I was really doing the same thing in a different domain: translating messy, real-world business scenarios into clean algorithms.
+My path started with **Electrical Engineering**, where I learned to think in systems: signals, circuits, failure points, feedback, and control.
 
-But solid code, I learned, isn't enough to build something people trust. To ship products that genuinely make users happy, I needed to understand how technical projects are actually run — which is why I completed my **first Master's in IT Management**.
+That mindset carried naturally into software. As I moved into frontend, backend, and full-stack development, I found myself solving the same kind of problem in a different language: turning messy real-world requirements into clean, reliable systems.
 
-Then came the work that changed everything. Building software for clinics, I saw clearly that the future of clinical systems is **AI** — not as a bolt-on feature, but as a foundation. And I saw that wiring up existing models isn't enough. To truly improve them — to help doctors make better decisions and ultimately save lives — I had to understand the **mathematics underneath the algorithms**, not just the libraries on top.
+Later, through healthcare software and clinical decision-support projects, I saw how powerful AI could become when it is connected to real workflows. But I also learned that connecting an AI model to an application is not enough. To build systems that people can trust, I needed stronger foundations in machine learning, mathematics, data pipelines, evaluation, and intelligent systems.
 
-The best place to learn that math is at a university. So I came to Hamburg for my **second Master's in Intelligent Adaptive Systems at Universität Hamburg** — and that's where I am now.
+That is why I came to Hamburg to study **Intelligent Adaptive Systems at Universität Hamburg**.
 
-A PhD is the natural next step: take the mathematical foundation I'm building here, combine it with six years of applied AI experience in healthcare, and contribute research that reaches the people it's meant to help.
+My next goal is to contribute to research in **AI, Machine Learning, NLP, Clinical AI, and Trustworthy Intelligent Systems**, ideally through a PhD or research role where software engineering and scientific thinking meet.
 
 ---
 
-## 🧭 Find What You're Looking For
+## 🧭 Find What You Are Looking For
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 For Professors & Research Groups
+### 🎓 For Professors and Research Groups
 
-If you lead a group working on **NLP, LLMs, clinical AI, trustworthy ML, or AI for software engineering** — here's what's relevant:
+If your group works on **AI, ML, NLP, LLMs, clinical AI, trustworthy ML, or AI for software engineering**, the most relevant sections are:
 
-- 📄 [**Selected publications and books**](#-selected-publications--books) — including an IEEE TPDS article with 200+ citations
-- 🔬 [**Research interests and current direction**](#-research-profile)
-- 🧪 [**Featured ML and NLP projects**](#-featured-projects) on GitHub
-- 📧 **Open to PhD positions** starting Winter 2026 / Summer 2027 across Germany
+- [Research Profile](#-research-profile)
+- [Selected Publications and Books](#-selected-publications-and-books)
+- [Featured Projects](#-featured-projects)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
 
-I can contribute with research writing and literature review, applied ML and NLP experimentation, reproducible data and evaluation pipelines, and full-stack research prototypes that bring ideas all the way to working systems.
+I can contribute with:
 
-→ **Reach me at** [saber.fazliahmadi@studium.uni-hamburg.de](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
+- literature review and academic writing
+- applied ML and NLP experimentation
+- clinical data and AI pipeline development
+- evaluation datasets and reproducible workflows
+- full-stack research prototypes
+- backend APIs and database-backed systems
+- clear technical documentation
+
+📩 Reach me at: [saber.fazliahmadi@studium.uni-hamburg.de](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 For Recruiters & Engineering Teams
+### 💼 For Recruiters and Engineering Teams
 
-If you're hiring for **full-stack, backend, ML/AI integration, or research software roles** — here's what's relevant:
+If you are hiring for **full-stack, backend, AI integration, ML engineering, or research software roles**, the most relevant sections are:
 
-- 🚀 [**Featured projects**](#-featured-projects) shipped to production
-- 🛠️ [**Tech stack**](#%EF%B8%8F-tech-stack) — React, TypeScript, Laravel, Python, PyTorch, SQL
-- 💼 **6+ years** building healthcare-AI platforms end-to-end
-- 🇩🇪 Based in Hamburg · open to onsite / hybrid / remote across Germany
+- [Featured Projects](#-featured-projects)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [How I Work](#-how-i-work)
+- [Ask Me About](#-ask-me-about)
 
-I bring clean, maintainable code, REST API and database design experience, AI/ML model integration into real web systems, and the ability to communicate clearly with both technical and non-technical stakeholders.
+I bring:
 
-→ **Reach me on** [LinkedIn](https://www.linkedin.com/in/saberfazliahmadi/) or by [email](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
+- React, TypeScript, PHP, Laravel, Python, and SQL experience
+- REST API and database design
+- JWT authentication and RBAC implementation
+- AI/ML model integration into web systems
+- clean code, SOLID principles, and maintainable architecture
+- communication across technical and non-technical teams
+
+📩 Reach me on [LinkedIn](https://www.linkedin.com/in/saberfazliahmadi/) or by [email](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
 
 </td>
 </tr>
@@ -132,22 +175,22 @@ I bring clean, maintainable code, REST API and database design experience, AI/ML
 
 ## 🔬 Research Profile
 
-I am drawn to problems where intelligent systems have to perform in **realistic, high-stakes, and human-centered environments** — where being correct, calibrated, and trustworthy matters as much as being accurate.
+I am interested in intelligent systems that must perform in **realistic, high-stakes, and human-centered environments**, especially where accuracy, explainability, robustness, and usability matter together.
 
-| Area | What I'm interested in |
+| Area | What I am interested in |
 |---|---|
-| 🧠 **Applied NLP & LLMs** | Domain-adapted language models, retrieval-augmented generation, text classification, evaluation beyond surface benchmarks |
-| 🏥 **Clinical & Healthcare AI** | Clinical decision support, medical text mining, healthcare data pipelines, responsible deployment in clinical workflows |
-| 🛡️ **Trustworthy & Human-Centered AI** | Explainability, robustness, calibration, uncertainty quantification, human-AI collaboration |
+| 🧠 **Applied NLP and LLMs** | Domain-adapted language models, RAG systems, text classification, information extraction, evaluation beyond surface benchmarks |
+| 🏥 **Clinical and Healthcare AI** | Clinical decision support, medical text mining, healthcare data pipelines, responsible AI in clinical workflows |
+| 🛡️ **Trustworthy and Human-Centered AI** | Explainability, calibration, uncertainty, robustness, human-AI collaboration |
 | ⚙️ **AI for Software Engineering** | NLP for requirements engineering, code understanding, developer-facing intelligent assistants |
-| 📊 **Data-Centric AI** | Pipeline quality, annotation workflows, evaluation datasets, reproducible experimentation |
+| 📊 **Data-Centric AI** | Dataset quality, annotation workflows, evaluation datasets, reproducible experimentation |
 
-> **🧪 Current research direction**  
-> As part of my M.Sc., I am developing and optimizing **AI-driven data pipelines for clinical applications** — specifically the *UKE AI Pipeline for Smarter Premedication*, in collaboration with research groups at Universitätsklinikum Hamburg-Eppendorf (UKE). This work sits at the intersection of clinical ML, data engineering, and human-centered AI.
+> **Current academic direction:**  
+> Developing and optimizing AI-driven data pipelines for clinical applications as part of my M.Sc. work in Intelligent Adaptive Systems.
 
 ---
 
-## 📚 Selected Publications & Books
+## 📚 Selected Publications and Books
 
 <table>
   <tr>
@@ -155,18 +198,18 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
     <td>
       <b>GRP-HEFT: A Budget-Constrained Resource Provisioning Scheme for Workflow Scheduling in IaaS Clouds</b><br/>
       Faragardi, H.R., Sedghpour, M.R.S., <b>Fazliahmadi, S.</b>, Fahringer, T., & Rasouli, N.<br/>
-      <i>IEEE Transactions on Parallel and Distributed Systems</i>, 31(6), 1239–1254 (2019).<br/>
+      <i>IEEE Transactions on Parallel and Distributed Systems</i>, 31(6), 1239-1254, 2019.<br/>
       <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
         <img src="https://img.shields.io/badge/Cited%20by-200%2B-22C55E?style=flat-square" alt="Cited by 200+" />
       </a>
       <img src="https://img.shields.io/badge/Journal-IEEE%20TPDS-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE TPDS" />
-      <img src="https://img.shields.io/badge/Q1-Top%20venue-fbbf24?style=flat-square" alt="Q1 top venue" />
     </td>
   </tr>
   <tr>
     <td>📄</td>
     <td>
-      <b>Security & Trust in Communication Systems</b> — <i>ISeCure</i>, International Conference on Communication, Management and Information Technology (2019).<br/>
+      <b>ISeCure</b><br/>
+      Proceedings of the International Conference on Communication, Management and Information Technology, 2019.<br/>
       Mousavi, S.K., <b>Fazliahmadi, S.</b>, Rasouli, N., Faragardi, H.R., Fotouhi, H., et al.<br/>
       <img src="https://img.shields.io/badge/Cited%20by-7-4F8EF7?style=flat-square" alt="Cited by 7" />
     </td>
@@ -174,27 +217,29 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
   <tr>
     <td>📄</td>
     <td>
-      <b>The Impact of Decision Support Systems on Drug Interactions in Integrated Clinical Information Systems</b><br/>
-      Research on clinical decision support and medical information systems.
+      <b>The Impact of the Decision Support System in the Integrated Information System of Selected Doctors on the Amount of Drug Interactions</b><br/>
+      Research contribution focused on clinical decision support and medical information systems.
     </td>
   </tr>
   <tr>
     <td>📄</td>
     <td>
-      <b>The Effect of Integrated Information Systems on Reducing Medical Errors</b><br/>
-      Research on healthcare software, clinical workflows, and error reduction.
+      <b>The Effect of the Use of an Integrated Information System by Selected Doctors in Tehran on Reducing Medical Errors</b><br/>
+      Research contribution focused on healthcare software, clinical workflows, and error reduction.
     </td>
   </tr>
   <tr>
     <td>📖</td>
     <td>
-      <b>How Robots Work</b> — single-author book on robotics fundamentals <i>(2024)</i>.
+      <b>How Robots Work</b><br/>
+      Single-author book on robotics fundamentals, 2024.
     </td>
   </tr>
   <tr>
     <td>📖</td>
     <td>
-      <b>Information Age in Plain Language</b> — single-author book on artificial intelligence and information technology <i>(2024)</i>.
+      <b>Information Age in Plain Language</b><br/>
+      Single-author book on artificial intelligence and information technology, 2024.
     </td>
   </tr>
 </table>
@@ -218,7 +263,7 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
       <h3>🏥 <a href="https://matabeonline.com">MatabeOnline</a></h3>
       <p><b>AI-powered clinic management and diagnostic-support platform.</b></p>
       <p>
-        A production healthcare system combining clinic workflow management with AI-assisted diagnostic support. I worked across architecture, frontend, backend, database, and ML integration — and helped reduce documented medical errors by ~20%.
+        A healthcare-oriented software system combining clinic workflow management with AI-assisted diagnostic support. I worked across architecture, frontend, backend, database, and ML integration layers.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -226,15 +271,15 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
         <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
-      <sub><b>Highlights:</b> ML model integration · REST APIs · RBAC · JWT auth · clinical workflows · GDPR/HIPAA-aware design</sub>
+      <sub><b>Highlights:</b> ML model integration · REST APIs · RBAC · JWT authentication · clinical workflows · database optimization</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>📨 <a href="https://github.com/saberfazliahmadi/spam-detection-tfidf">Spam Detection with TF-IDF + Decision Tree</a></h3>
+      <h3>📨 <a href="https://github.com/saberfazliahmadi/spam-detection-tfidf">Spam Detection with TF-IDF and Decision Tree</a></h3>
       <p><b>A clean baseline NLP pipeline for binary text classification.</b></p>
       <p>
-        End-to-end text classification project covering preprocessing, TF-IDF feature extraction, model training, and evaluation. A clear, reproducible reference implementation for NLP baselines.
+        End-to-end text classification project covering preprocessing, TF-IDF feature extraction, model training, and evaluation. A simple, reproducible NLP baseline.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-NLP-8E44AD?style=flat-square" />
@@ -250,7 +295,7 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
       <h3>📊 <a href="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering">Comprehensive ML Analysis</a></h3>
       <p><b>Regression, classification, and clustering workflows.</b></p>
       <p>
-        A teaching-quality ML notebook collection covering supervised and unsupervised methods — preprocessing, training, evaluation, and interpretation — with consistent, reproducible code.
+        A machine learning project covering supervised and unsupervised methods with practical Python-based analysis, preprocessing, model training, evaluation, and interpretation.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -261,10 +306,10 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
       <sub><b>Focus:</b> regression · classification · clustering · model selection · evaluation</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips">Laravel Tips & Best Practices</a></h3>
-      <p><b>A growing, community-loved knowledge base for Laravel developers.</b></p>
+      <h3>💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips">Laravel Tips and Best Practices</a></h3>
+      <p><b>A practical knowledge base for Laravel developers.</b></p>
       <p>
-        Practical, focused tips covering Eloquent, query optimization, caching, common mistakes, and backend best practices — written to save other developers debugging time.
+        Focused Laravel tips covering Eloquent relationships, query optimization, caching, common mistakes, and backend best practices.
       </p>
       <p>
         <a href="https://github.com/saberfazliahmadi/Laravel-Tips/stargazers">
@@ -298,7 +343,11 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 9. 💡 [Avoid orWhere() Pitfalls](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md)
 10. 💡 [Customizing Faker Locale for Dummy Data](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md)
 
-➡️ [Browse the full collection](https://github.com/saberfazliahmadi/Laravel-Tips) · [Contributing](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md) · [License](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE)
+<br/>
+
+➡️ [Browse the full collection](https://github.com/saberfazliahmadi/Laravel-Tips)  
+➡️ [Contributing Guidelines](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md)  
+➡️ [License](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE)
 
 </details>
 
@@ -307,7 +356,7 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🧠 AI, Machine Learning & Data Science</b></summary>
+<summary><b>🧠 AI, Machine Learning, and Data Science</b></summary>
 
 <br/>
 
@@ -320,7 +369,9 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-`Deep Learning` · `NLP / Text Classification` · `BERT fine-tuning` · `Computer Vision` · `Supervised & Unsupervised Learning` · `MLOps with Azure ML` · `Evaluation & Reproducibility`
+<br/><br/>
+
+`Machine Learning` · `Deep Learning` · `NLP` · `Text Classification` · `BERT Fine-Tuning` · `Computer Vision` · `Supervised Learning` · `Unsupervised Learning` · `Evaluation` · `Reproducibility`
 
 </details>
 
@@ -338,24 +389,27 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-`REST API design` · `JWT Authentication` · `RBAC` · `Repository / Singleton / Factory patterns` · `OOP` · `MVC`
+<br/><br/>
+
+`REST API Design` · `JWT Authentication` · `RBAC` · `OOP` · `MVC` · `Clean Code` · `SOLID` · `Design Patterns` · `PHPUnit`
 
 </details>
 
 <details open>
-<summary><b>🗄️ Data, Cloud & Engineering Practices</b></summary>
+<summary><b>🗄️ Data, Cloud, and Engineering Tools</b></summary>
 
 <br/>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Azure ML](https://img.shields.io/badge/-Azure%20ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-`Clean Code` · `SOLID` · `Design Patterns` · `PHPUnit` · `Database Optimization` · `Technical Documentation` · `Tableau / Power BI`
+<br/><br/>
+
+`Database Optimization` · `Data Pipelines` · `SQL` · `Technical Documentation` · `Tableau` · `Power BI` · `Agile / Scrum`
 
 </details>
 
@@ -364,7 +418,9 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 
 <br/>
 
-🇬🇧 **English** — C1 · 🇩🇪 **German** — A2 *(actively improving)* · 🇮🇷 **Persian** — Native
+🇬🇧 **English:** C1  
+🇩🇪 **German:** A2, actively improving  
+🇮🇷 **Persian:** Native
 
 </details>
 
@@ -391,19 +447,106 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 
 ---
 
+## 📚 I Share What I Learn
+
+I regularly share practical technical notes and educational content about:
+
+- PHP and Laravel
+- backend engineering
+- clean code
+- React and TypeScript
+- AI integration
+- machine learning
+- NLP
+- research-oriented software development
+
+<p>
+  <a href="https://github.com/saberfazliahmadi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/saberfazliahmadi/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@saberfazliahmadi">
+    <img src="https://img.shields.io/badge/YouTube-Watch-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
+  </a>
+  <a href="https://www.kaggle.com/saberfazliahmadi">
+    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=for-the-badge&logo=kaggle" alt="Kaggle" />
+  </a>
+</p>
+
+<details>
+<summary><b>🌐 Community Channels</b></summary>
+
+<br/>
+
+- [WhatsApp Channel](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU)
+- [Telegram Channel](https://t.me/+ZMsq1sQYqwZhZDJk)
+
+</details>
+
+---
+
+## 🎯 What I Am Looking For
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Research and PhD Direction
+
+I am interested in PhD, HiWi, and research assistant opportunities in Germany in:
+
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Large Language Models
+- Clinical and Healthcare AI
+- Trustworthy and Human-Centered AI
+- AI for Software Engineering
+- Intelligent Adaptive Systems
+
+I am especially interested in research where strong software engineering helps turn models, datasets, and ideas into usable systems.
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Engineering Direction
+
+I am open to roles in:
+
+- Full-Stack Development
+- Backend Engineering
+- AI Integration Engineering
+- Machine Learning Engineering
+- Data/ML Engineering
+- Healthcare Software
+- Research Software Engineering
+
+I am most excited by teams building reliable software with real-world impact, especially where AI, data, and human workflows meet.
+
+</td>
+</tr>
+</table>
+
+---
+
 ## ⚡ How I Work
 
-Whether I'm debugging a query, training a model, or thinking through a research question, I approach it the same way:
+Whether I am debugging a query, designing an API, training a model, or reading a research paper, I usually follow the same engineering instinct:
 
-> *Open the system. Understand the signal. Find the weak point. Improve the design. Make it work reliably.*
+> Open the system. Understand the signal. Find the weak point. Improve the design. Make it work reliably.
 
-I care less about clever code than about systems that work — and that people can trust.
+I care about systems that are understandable, testable, maintainable, and useful.
+
+Good software is not only clever code.  
+It is a working bridge between a real problem and a reliable solution.
 
 ---
 
 ## 💬 Ask Me About
 
-`React + TypeScript` · `Laravel & PHP backend systems` · `REST API design` · `SQL query optimization` · `Clean code & SOLID` · `AI integration into web apps` · `ML pipelines` · `NLP & text classification` · `Clinical AI` · `Research software prototypes`
+`React + TypeScript` · `Laravel and PHP backend systems` · `REST API design` · `SQL query optimization` · `Clean Code and SOLID` · `AI integration into web apps` · `ML pipelines` · `NLP and text classification` · `Clinical AI` · `Research software prototypes`
 
 ---
 
@@ -434,11 +577,12 @@ I care less about clever code than about systems that work — and that people c
 
 ### Thanks for visiting.
 
-If my work is useful to you, please **follow** my GitHub profile and **star** the repositories you find valuable ⭐  
-Let's build useful, intelligent, and reliable software — together.
+If my work is useful to you, please **follow** my GitHub profile and **star** the repositories you find valuable ⭐
+
+**Let's build useful, intelligent, and reliable software.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="GitHub profile footer" />
 
 </div>
