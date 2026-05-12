@@ -429,7 +429,6 @@ I am interested in intelligent systems that must perform in **realistic, high-st
 <summary><b>🌍 Languages</b></summary>
 
 <br/>
-
 🇬🇧 **English:** C1  
 🇩🇪 **German:** A2, actively improving  
 🇮🇷 **Persian:** Native
@@ -487,7 +486,7 @@ I regularly share practical technical notes and educational content about:
   </a>
 </p>
 
-<details>
+<details open>
 <summary><b>🌐 Community Channels</b></summary>
 
 <br/>
