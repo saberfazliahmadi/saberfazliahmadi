@@ -105,15 +105,27 @@ This GitHub profile is both my **technical portfolio** and my **research enginee
 
 ## 🧬 My Journey
 
-My path started with **Electrical Engineering**, where I learned to think in systems: signals, circuits, failure points, feedback, and control.
+My journey started with a **Bachelor’s degree in Electrical Engineering**, where I learned to think in systems, signals, logic, feedback, and layered structures.
 
-That mindset carried naturally into software. As I moved into frontend, backend, and full-stack development, I found myself solving the same kind of problem in a different language: turning messy real-world requirements into clean, reliable systems.
+Working with digital circuits trained my mind to handle complexity. It taught me how to break difficult technical problems into smaller parts, trace the flow of information, and convert abstract logic into working solutions. That foundation later helped me move naturally into programming, where complex real-world business scenarios often need to be translated into clean algorithms, reliable architecture, and maintainable code.
 
-Later, through healthcare software and clinical decision-support projects, I saw how powerful AI could become when it is connected to real workflows. But I also learned that connecting an AI model to an application is not enough. To build systems that people can trust, I needed stronger foundations in machine learning, mathematics, data pipelines, evaluation, and intelligent systems.
+After several years of working as a **Frontend Developer**, **Backend Developer**, and eventually a **Full-Stack Developer**, I realized that writing solid code is only one part of building successful software. Good products also require good planning, communication, project structure, and an understanding of how technology creates value for users and organizations.
 
-That is why I came to Hamburg to study **Intelligent Adaptive Systems at Universität Hamburg**.
+That realization led me to complete my first Master’s degree in **Information Technology Management**. It helped me understand software not only as code, but as part of a larger system involving people, processes, business needs, and long-term maintainability.
 
-My next goal is to contribute to research in **AI, Machine Learning, NLP, Clinical AI, and Trustworthy Intelligent Systems**, ideally through a PhD or research role where software engineering and scientific thinking meet.
+Later, while working on software for clinics, I became increasingly interested in the role of **Artificial Intelligence in healthcare**. I saw that the future of clinical software is not only about storing data or managing workflows. It is about building intelligent systems that can support better decisions, reduce errors, and help professionals work more effectively.
+
+But I also realized something important: simply connecting an AI model to a software system is not enough. To build AI systems that are accurate, trustworthy, and useful in real clinical environments, I needed to understand the mathematics, machine learning principles, data pipelines, and evaluation methods behind the models.
+
+That is why I started my second Master’s degree in **Intelligent Adaptive Systems at Universität Hamburg**.
+
+Today, my goal is to combine these 3 parts of my background:
+
+- **Electrical Engineering**, which taught me systems thinking and technical problem-solving
+- **IT Management**, which taught me how software projects succeed in real organizations
+- **Intelligent Adaptive Systems**, which gives me the AI, ML, and research foundation to build smarter systems
+
+This path has shaped my current direction: contributing to **AI, Machine Learning, NLP, Clinical AI, and Trustworthy Intelligent Systems**, especially where research can become practical software that helps real users.
 
 ---
 
