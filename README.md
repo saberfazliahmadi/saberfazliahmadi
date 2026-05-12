@@ -75,6 +75,20 @@ I've shipped healthcare-AI software in industry, contributed to peer-reviewed re
 
 ---
 
+## 🧬 My Journey
+
+My path started with a Bachelor's in **Electrical Engineering**, where the complexity of digital circuits taught me to think like an engineer — break problems down, trace signals through layered systems, find the failure point, redesign. That same instinct carried directly into software. Years later, as a frontend, backend, and then full-stack developer, I was really doing the same thing in a different domain: translating messy, real-world business scenarios into clean algorithms.
+
+But solid code, I learned, isn't enough to build something people trust. To ship products that genuinely make users happy, I needed to understand how technical projects are actually run — which is why I completed my **first Master's in IT Management**.
+
+Then came the work that changed everything. Building software for clinics, I saw clearly that the future of clinical systems is **AI** — not as a bolt-on feature, but as a foundation. And I saw that wiring up existing models isn't enough. To truly improve them — to help doctors make better decisions and ultimately save lives — I had to understand the **mathematics underneath the algorithms**, not just the libraries on top.
+
+The best place to learn that math is at a university. So I came to Hamburg for my **second Master's in Intelligent Adaptive Systems at Universität Hamburg** — and that's where I am now.
+
+A PhD is the natural next step: take the mathematical foundation I'm building here, combine it with six years of applied AI experience in healthcare, and contribute research that reaches the people it's meant to help.
+
+---
+
 ## 🧭 Find What You're Looking For
 
 <table>
@@ -377,13 +391,13 @@ I am drawn to problems where intelligent systems have to perform in **realistic,
 
 ---
 
-## ⚡ A Short Personal Note
+## ⚡ How I Work
 
-I started with **electronics, circuits, and hardware** — and that background shaped how I think as a developer:
+Whether I'm debugging a query, training a model, or thinking through a research question, I approach it the same way:
 
 > *Open the system. Understand the signal. Find the weak point. Improve the design. Make it work reliably.*
 
-Today I bring that same engineering instinct to software systems, machine-learning models, and research prototypes. I care less about clever code than about systems that work — and that people can trust.
+I care less about clever code than about systems that work — and that people can trust.
 
 ---
 
