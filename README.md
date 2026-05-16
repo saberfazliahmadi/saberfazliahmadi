@@ -526,8 +526,6 @@ I write practical technical notes about PHP and Laravel, backend engineering, cl
 
 <b>🌐 Community Channels</b>
 
-<br/>
-
 <p align="left">
   My GitHub PHP => LARAVEL TIPS Repository Link:
   <a href="https://github.com/saberfazliahmadi/Laravel-Tips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@saberfazliahmadi" height="30" width="40" />💡https://github.com/saberfazliahmadi/Laravel-Tips</a>
