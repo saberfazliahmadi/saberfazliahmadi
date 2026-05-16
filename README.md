@@ -249,7 +249,7 @@ Three years of growing roles at **[MatabeOnline](https://matabeonline.com)** —
       <h3>🏥 Clinical AI · RAG Pipeline <sub><i>research project · private repository</i></sub></h3>
       <p><b>An AI system that reads medical guidelines and helps doctors.</b></p>
       <p>
-        A research project with a leading German university hospital and a major data science research hub. The system reads long medical guidelines and hospital procedure documents. It turns them into clear, patient-specific recommendations for doctors. Every recommendation links back to the original page, so doctors can always check the source.
+        A research project with a leading German university hospital and a major data science research hub. The system reads long medical guidelines and hospital procedure documents. It turns them into clear, patient-specific recommendations for doctors.
       </p>
       <p>
         .
