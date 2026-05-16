@@ -474,19 +474,6 @@ Good software is not about clever code. It is a working bridge between a real pr
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/saberfazliahmadi">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=saberfazliahmadi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=445" alt="Saber Fazliahmadi GitHub stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saberfazliahmadi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=380" alt="Saber Fazliahmadi top languages" />
-</a>
-
-</div>
-
----
-
 ## 💬 Ask Me About
 
 `React + TypeScript + JavaScript + Next.js` · `Python + FastAPI` · `PHP + Laravel backends` · `RAG systems` · `LLM integration in production` · `Clinical AI &amp; decision support` · `REST API design` · `SQL &amp; query optimization` · `Clean Code &amp; SOLID` · `Design Patterns` · `NLP pipelines` · `Research software prototypes`
@@ -537,16 +524,81 @@ I am most excited about teams that ship reliable software with real-world impact
 
 I write practical technical notes about PHP and Laravel, backend engineering, clean code, React and TypeScript and JavaScript, AI integration, and research-oriented software development.
 
-<details>
-<summary><b>🌐 Community channels</b></summary>
+<b>🌐 Community Channels</b>
 
 <br/>
 
-- [WhatsApp channel](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU)
-- [Telegram channel](https://t.me/+ZMsq1sQYqwZhZDJk)
-- [YouTube channel](https://www.youtube.com/@saberfazliahmadi)
+<p align="left">
+  My GitHub PHP => LARAVEL TIPS Repository Link:
+  <a href="https://github.com/saberfazliahmadi/Laravel-Tips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="@saberfazliahmadi" height="30" width="40" />💡https://github.com/saberfazliahmadi/Laravel-Tips</a>
+</p>
+📚 LARAVEL TIPS Repository Contents:
+</br>
+1 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
+</br>
+2 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md" >Query Optimization</a>
+</br>
+3 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md" >Avoid Model Methods for Data Retrieval</a>
+</br>
+4 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md" >Simplify Cache Management</a>  
+</br>
+5 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md" >Cleaner Queries with Relationships</a>
+</br>
+6 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/006-dynamic-where-methods.md" >Supercharge Your Queries with Dynamic where Methods</a>
+</br>
+7 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/007-faker_image_generation.md" >Generate Fake Images and URLs with Faker</a>
+</br>
+8 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/008-query-builder-where-methods.md" >Mastering whereAll, whereAny, orWhereAll, and orWhereAny</a>
+</br>
+9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
+</br>
+10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
+</br>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
+</br>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
+</br>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
+</br>
+</br>
 
-</details>
+## 📚 Stay Updated with Laravel Tips & Tricks
+I post daily PHP and Laravel tips on: 
+</br>
+</br>
+<p align="left">
+My YouTube Channel:
+<a href="https://www.youtube.com/@saberfazliahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saberfazliahmadi" height="30" width="40" />https://www.youtube.com/@saberfazliahmadi</a>
+</p>
+</br>
+
+<p align="left">
+  My LinkedIn Page:
+  <a href="https://linkedin.com/in/saberfazliahmadi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saberfazliahmadi/" height="30" width="40" />https://www.linkedin.com/in/saberfazliahmadi/</a>
+</p>
+</br>
+
+<p align="left">
+  My Kaggle page: 
+  <a href="https://www.kaggle.com/saberfazliahmadi" target="_blank">
+    <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="My Kaggle page" height="50" width="60" />
+    &nbsp; https://www.kaggle.com/saberfazliahmadi
+  </a>
+</p>
+</br>
+
+<p align="left">
+  My WhatsApp Channel:
+  <a href="https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp Channel" height="30" width="40" />https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU</a>
+</p>
+</br>
+
+<p align="left">
+  My Telegram Channel:
+  <a href="https://t.me/+ZMsq1sQYqwZhZDJk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="40" />https://t.me/+ZMsq1sQYqwZhZDJk</a>
+</p>
+</br>
+
 
 ---
 
