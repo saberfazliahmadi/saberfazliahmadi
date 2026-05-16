@@ -593,7 +593,7 @@ My YouTube Channel:
 
 <p align="left">
   My Telegram Channel:
-  <a href="https://t.me/+ZMsq1sQYqwZhZDJk" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="40" />https://t.me/+ZMsq1sQYqwZhZDJk</a>
+  <a href="https://t.me/laravel_developer_community" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Channel" height="30" width="40" />https://t.me/laravel_developer_community</a>
 </p>
 </br>
 
