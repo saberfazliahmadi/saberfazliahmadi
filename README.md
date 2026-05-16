@@ -251,7 +251,9 @@ Three years of growing roles at **[MatabeOnline](https://matabeonline.com)** —
       <p>
         A research project with a leading German university hospital and a major data science research hub. The system reads long medical guidelines and hospital procedure documents. It turns them into clear, patient-specific recommendations for doctors. Every recommendation links back to the original page, so doctors can always check the source.
       </p>
-      
+      <p>
+        .
+      </p>
       <p>
         <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
