@@ -3,11 +3,11 @@
 <!-- ===================== HERO ===================== -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20TypeScript%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration%20%E2%80%A2%20Hamburg%2C%20Germany&descAlignY=58&descSize=13" alt="Saber Fazliahmadi · Full-Stack Developer · Python · React · TypeScript · PHP · Laravel · AI/RAG/LLM Integration · Hamburg, Germany" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20TypeScript%20%2B%20JavaScript%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — Full-Stack Developer using Python, React, TypeScript, JavaScript, PHP, and Laravel — AI, RAG, and LLM Integration — Hamburg, Germany" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=Full-Stack+Developer+%C2%B7+Python+%2B+React+%2B+TypeScript+%2B+PHP+%2B+Laravel;AI+%C2%B7+RAG+%C2%B7+LLM+Integration+%C2%B7+Production-grade+Pipelines;Frontend+(React)+%C2%B7+Backend+(Laravel)+%C2%B7+ML+%C2%B7+Full-Stack;M.Sc.+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+PhD%2C+Full-Stack%2C+Frontend%2C+Backend%2C+ML%2C+AI+roles+in+Germany" alt="Animated tagline introducing Saber Fazliahmadi as a full-stack, frontend, backend, and ML engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=I+build+software+with+Python%2C+React%2C+TypeScript%2C+JavaScript%2C+PHP%2C+Laravel;I+work+with+AI%2C+RAG%2C+and+LLM+integration;Frontend+%C2%B7+Backend+%C2%B7+ML+%C2%B7+Full-Stack+%E2%80%93+I+worked+in+all+four+roles;M.Sc.+student+in+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+PhD+positions+and+software+%2F+AI+jobs+in+Germany" alt="Animated tagline showing the main skills and roles of Saber Fazliahmadi" />
 </a>
 
 <br/>
@@ -16,46 +16,47 @@
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-207%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 207+ citations" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-207%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 207 citations and counting" />
   </a>
-  <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Transactions on Parallel and Distributed Systems — published author" />
-  <img src="https://img.shields.io/badge/2%20Authored%20Books-2024-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="2 authored books — published 2024" />
+  <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Author of an IEEE TPDS journal article" />
+  <img src="https://img.shields.io/badge/2%20Authored%20Books-2024-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Single author of 2 books, published 2024" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-PhD%20%C2%B7%20Full--Stack%20%C2%B7%20Frontend%20%C2%B7%20Backend%20%C2%B7%20ML%20%C2%B7%20AI-22C55E?style=for-the-badge" alt="Open to PhD, Full-Stack, Frontend, Backend, ML, and AI Engineering opportunities" />
-  <img src="https://img.shields.io/badge/Hamburg%2C%20Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Located in Hamburg, Germany" />
+  <img src="https://img.shields.io/badge/Open%20to-PhD%20%C2%B7%20Full--Stack%20%C2%B7%20Frontend%20%C2%B7%20Backend%20%C2%B7%20ML%20%C2%B7%20AI-22C55E?style=for-the-badge" alt="Open to PhD, Full-Stack, Frontend, Backend, Machine Learning, and AI Engineering roles" />
+  <img src="https://img.shields.io/badge/Hamburg%2C%20Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Hamburg, Germany" />
 </p>
 
 <!-- ===================== CONTACT ROW ===================== -->
 
 <p>
   <a href="https://www.linkedin.com/in/saberfazliahmadi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:saber.fazliahmadi@studium.uni-hamburg.de">
-    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Send an email" />
   </a>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar profile" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Visit Google Scholar profile" />
   </a>
   <a href="https://www.researchgate.net/profile/Saber-Fazliahmadi">
-    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate profile" />
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="Visit ResearchGate profile" />
   </a>
   <a href="https://www.kaggle.com/saberfazliahmadi">
-    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle notebooks" />
+    <img src="https://img.shields.io/badge/Kaggle-Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="View Kaggle notebooks" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=saberfazliahmadi&style=flat-square&color=4F8EF7&label=Profile+views" alt="Profile views counter" />
 </p>
 
 <br/>
 
-### Full-Stack Developer · Python + React + TypeScript + PHP + Laravel · AI / RAG / LLM Integration
+### Full-Stack Developer · Python + React + TypeScript + JavaScript + PHP + Laravel · AI / RAG / LLM Integration
 
-I build production-grade software at the intersection of **applied research and full-stack engineering** —
-combining **Python · FastAPI · React · Next.js · TypeScript · PHP · Laravel · LangGraph · vector retrieval** to turn research models into systems people actually use.
+I build software that solves real problems.
+My work brings together full-stack engineering and applied AI.
+I take ideas and AI models from research and turn them into tools that people can actually use.
 
-<sub><i>Welcome from LinkedIn. Explore the repositories, follow the profile, and star the work you find useful ⭐</i></sub>
+<sub><i>Welcome! If you came here from my LinkedIn profile, please look around. ⭐ Star the projects you find useful. ➕ Follow my profile if you like my work.</i></sub>
 
 </div>
 
@@ -63,11 +64,11 @@ combining **Python · FastAPI · React · Next.js · TypeScript · PHP · Larave
 
 ## 📍 Focus
 
-> **M.Sc. student in Intelligent Adaptive Systems at Universität Hamburg.** Working at the intersection of full-stack engineering and applied AI — turning research models, data, and ideas into reliable production software.
+> I am a Master's student in **Intelligent Adaptive Systems at Universität Hamburg**. I build software that uses AI. I take ideas from research and turn them into tools that work in real life.
 
-- 🧠 **Research direction:** Applied NLP, RAG architectures, LLM integration, clinical decision support, and trustworthy ML in healthcare and research contexts.
-- 🛠 **Engineering depth:** Three years of progressive industry roles spanning **Frontend (React) → Backend (PHP / Laravel) → Machine Learning → Full-Stack** — supported by **six years** of healthcare-software experience overall.
-- 🌍 **Based in:** Hamburg, Germany — open to PhD, full-stack, frontend, backend, ML, and AI-engineering roles across the country.
+- 🧠 **My research interests:** Applied NLP, RAG systems, LLM integration, AI for hospitals and doctors, and AI that people can trust.
+- 🛠 **My engineering experience:** Three years of growing roles at the same company. I started as a Frontend Developer (React). Then I became a Backend Developer (PHP and Laravel). Then a Machine Learning Engineer. Then a Full-Stack Developer. In total, I have about **six years** of experience building software for healthcare.
+- 🌍 **I live in Hamburg, Germany.** I am open to PhD positions and to jobs in Full-Stack, Frontend, Backend, Machine Learning, and AI Engineering across Germany.
 
 ---
 
@@ -76,16 +77,16 @@ combining **Python · FastAPI · React · Next.js · TypeScript · PHP · Larave
 |  |  |
 |---|---|
 | 🎓 **Education** | M.Sc. Intelligent Adaptive Systems · Universität Hamburg · *(in progress)* · M.Sc. IT Management · B.Sc. Electrical Engineering |
-| 📚 **Research output** | IEEE TPDS journal article · 2 authored books · **207+ Google Scholar citations** |
-| 🛠 **Core stack** | Python · FastAPI · React · Next.js · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangGraph · pgvector |
-| 🧠 **AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy ML |
-| 🌍 **Languages** | English C1 · German A2 (actively improving) · Persian native |
-| 📍 **Based in** | Hamburg, Germany |
-| 🎯 **Open to** | PhD positions · Full-Stack · Frontend · Backend · ML · AI Engineering · HiWi · Research roles |
+| 📚 **Published work** | One IEEE TPDS journal article · Two single-author books · **207+ Google Scholar citations** |
+| 🛠 **Main tools I use** | Python · FastAPI · React · Next.js · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangGraph · pgvector |
+| 🧠 **My AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy AI |
+| 🌍 **Languages I speak** | English C1 · German A2 *(I am actively improving it)* · Persian (native) |
+| 📍 **I live in** | Hamburg, Germany |
+| 🎯 **I am looking for** | PhD positions · Full-Stack · Frontend · Backend · ML · AI Engineering · HiWi · Research roles |
 
 ---
 
-## 🧭 Find What You Are Looking For
+## 🧭 Where to Start
 
 <table>
 <tr>
@@ -93,20 +94,20 @@ combining **Python · FastAPI · React · Next.js · TypeScript · PHP · Larave
 
 ### 🎓 For Professors and Research Groups
 
-If your group works on **AI, ML, NLP, LLMs, RAG, clinical AI, trustworthy ML, or AI for software engineering**:
+Do you work on **AI, ML, NLP, LLMs, RAG, AI in healthcare, trustworthy AI, or AI for software engineering**? Then start here:
 
-- [Research Profile](#-research-profile)
-- [Selected Publications and Books](#-selected-publications-and-books)
+- [Research Interests](#-research-interests)
+- [Publications and Books](#-publications-and-books)
 - [Featured Projects](#-featured-projects)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 
-I bring to a research group:
+I can help your research group with:
 
-- Literature review and academic writing
-- Applied ML and NLP experimentation
-- Clinical data pipelines and evaluation datasets
-- Reproducible workflows with proper documentation
-- Full-stack research prototypes ready to ship
+- Reading research papers and writing about them
+- Running experiments with ML and NLP models
+- Building data pipelines and evaluation datasets
+- Writing clear, reproducible code
+- Building working software prototypes from research ideas
 
 📩 [saber.fazliahmadi@studium.uni-hamburg.de](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
 
@@ -115,20 +116,20 @@ I bring to a research group:
 
 ### 💼 For Recruiters and Engineering Teams
 
-If you are hiring for **Full-Stack, Frontend, Backend, ML, AI integration, or RAG / LLM engineering** roles in Germany:
+Are you hiring for **Full-Stack, Frontend, Backend, ML, AI integration, or RAG / LLM** roles in Germany? Then start here:
 
 - [Experience](#-experience)
 - [Featured Projects](#-featured-projects)
 - [Tech Stack](#%EF%B8%8F-tech-stack)
 - [How I Work](#-how-i-work)
 
-I bring to a team:
+What I bring to a team:
 
-- **Frontend:** React · TypeScript · JavaScript · Next.js · responsive UI
-- **Backend:** PHP · Laravel · Python · FastAPI · REST APIs · JWT auth · RBAC
-- **AI / ML:** RAG architectures · LLM integration · vector retrieval · ML pipelines
-- Clean code, SOLID principles, Clean Architecture
-- Six years of industry experience shipping healthcare software
+- **Frontend:** React · TypeScript · JavaScript · Next.js · responsive design
+- **Backend:** PHP · Laravel · Python · FastAPI · REST APIs · JWT login · RBAC
+- **AI / ML:** RAG systems · LLM integration · vector search · ML pipelines
+- Clean code, SOLID principles, and clear architecture
+- Six years of experience shipping real healthcare software
 
 📩 [LinkedIn](https://www.linkedin.com/in/saberfazliahmadi/) · [Email](mailto:saber.fazliahmadi@studium.uni-hamburg.de)
 
@@ -140,7 +141,7 @@ I bring to a team:
 
 ## 💼 Experience
 
-Three years of progressive industry roles at **[MatabeOnline](https://matabeonline.com)** — an AI-powered clinic management platform — moving across the entire stack.
+Three years of growing roles at **[MatabeOnline](https://matabeonline.com)** — an AI-powered platform for clinics. I moved across the whole stack, one role at a time.
 
 <table>
   <tr>
@@ -148,14 +149,15 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
     <td valign="top">
       <h4>🧩 Full-Stack Developer · React + Laravel</h4>
       <ul>
-        <li>Engineered core architecture bridging modern React frontends with robust Laravel backends.</li>
-        <li>Developed type-safe, responsive user interfaces using React.js and TypeScript.</li>
-        <li>Designed and documented RESTful APIs in Laravel; implemented RBAC and JWT authentication.</li>
-        <li>Integrated automated testing workflows and code reviews using Git.</li>
+        <li>Built the main code that connects React frontends with Laravel backends.</li>
+        <li>Built user interfaces with React, TypeScript, and JavaScript. They use types for safety and work on every screen size.</li>
+        <li>Designed REST APIs in Laravel and wrote clear documentation. Also built RBAC and JWT login.</li>
+        <li>Added automated tests and code reviews using Git.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square" />
         <img src="https://img.shields.io/badge/-JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
@@ -167,8 +169,8 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
     <td valign="top">
       <h4>🧠 Machine Learning Engineer</h4>
       <ul>
-        <li>Developed and optimized data pipelines, processing datasets to extract actionable insights.</li>
-        <li>Improved AI model accuracy by <b>18%</b> and integrated solutions to enhance clinical safety.</li>
+        <li>Built and improved data pipelines. I cleaned and processed datasets to find useful insights.</li>
+        <li>Improved AI model accuracy by <b>18%</b>. Built solutions that make clinical work safer.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -184,10 +186,10 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
     <td valign="top">
       <h4>🛠 Backend Developer · PHP + Laravel</h4>
       <ul>
-        <li>Refactored backend architecture with Laravel 8 applying Clean Code and SOLID principles.</li>
-        <li>Optimized database SQL queries, improving performance by <b>15%</b>.</li>
-        <li>Scheduled automated tests with PHPUnit to reduce maintenance time.</li>
-        <li>Executed design patterns (Repository, Strategy, Factory, Observer) to facilitate unit testing.</li>
+        <li>Rewrote the backend in Laravel 8 using Clean Code and SOLID principles.</li>
+        <li>Made SQL queries faster. Database performance improved by <b>15%</b>.</li>
+        <li>Set up automatic tests with PHPUnit. This saved time on maintenance.</li>
+        <li>Used design patterns (Repository, Strategy, Factory, Observer) to make unit testing easier.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -201,10 +203,10 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
   <tr>
     <td width="180" valign="top"><b>09/2021 – 09/2022</b><br/><sub>1 year</sub></td>
     <td valign="top">
-      <h4>🎨 Frontend Developer · React</h4>
+      <h4>🎨 Frontend Developer · React + JavaScript</h4>
       <ul>
-        <li>Improved page load speeds by <b>10%</b> via asset optimization and React lazy loading.</li>
-        <li>Built mobile-first interfaces ensuring full cross-browser compatibility.</li>
+        <li>Made pages load <b>10% faster</b>. I did this with asset optimization and React lazy loading.</li>
+        <li>Built mobile-first interfaces. They work in all browsers.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -217,7 +219,7 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
   </tr>
 </table>
 
-> The progression frontend → backend → ML → full-stack at the same product gave me deep familiarity with every layer of a real-world AI-enabled software system, plus the practical sense of which trade-offs matter in production.
+> Moving from Frontend → Backend → Machine Learning → Full-Stack at the same product taught me one thing: I now understand every layer of a real AI-enabled software system. I also know which trade-offs really matter in production.
 
 ---
 
@@ -227,29 +229,30 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://matabeonline.com">MatabeOnline</a></h3>
-      <p><b>AI-powered clinic management and diagnostic-support platform.</b></p>
+      <p><b>An AI-powered web platform for clinics.</b></p>
       <p>
-        Production healthcare SaaS combining clinic workflow management with AI-assisted diagnostic support. Worked across architecture, frontend, backend, database, and ML integration over multiple years and four progressive roles.
+        A working healthcare web app for clinics. It manages clinic work and helps doctors with AI tools. I worked on the system design, the frontend, the backend, the database, and the AI parts. I did this over four roles across several years.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
       </p>
-      <sub><b>Highlights:</b> ML integration · REST APIs · RBAC · JWT auth · multi-tenant architecture · query optimization · clinical workflows</sub>
+      <sub><b>Highlights:</b> AI integration · REST APIs · RBAC · JWT login · multi-tenant design · query optimization · real clinical workflows</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Clinical AI · RAG Pipeline <sub><i>research collaboration · private repository</i></sub></h3>
-      <p><b>End-to-end AI pipeline for structured clinical recommendation extraction.</b></p>
+      <h3>🏥 Clinical AI · RAG Pipeline <sub><i>research project · private repository</i></sub></h3>
+      <p><b>An AI system that reads medical guidelines and helps doctors.</b></p>
       <p>
-        Research collaboration with a leading German university medical center and a major computing &amp; data science research hub. The system converts unstructured medical guidelines and standard operating procedures into traceable, patient-specific recommendations for clinicians.
+        A research project with a leading German university hospital and a major data science research hub. The system reads long medical guidelines and hospital procedure documents. It turns them into clear, patient-specific recommendations for doctors. Every recommendation links back to the original page, so doctors can always check the source.
       </p>
       <p>
-        Architecture: PDF → OCR → LLM extraction (structured P·I·O schema) → human-in-the-loop validation → PostgreSQL + pgvector for semantic retrieval → RAG-based recommendation engine.
+        <b>How it works:</b> PDF goes in → text is read with OCR → an LLM finds the rules in a clear structure (Patient · Action · Outcome) → a doctor checks and approves them → the rules are saved in PostgreSQL with pgvector for semantic search → a RAG engine gives recommendations for each patient.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -260,15 +263,15 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
         <img src="https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
       </p>
-      <sub><b>Highlights:</b> production RAG · multi-modal OCR · traceability (no hallucination) · human-in-the-loop · German medical NLP</sub>
+      <sub><b>Highlights:</b> production-grade RAG · OCR with images and text · full traceability (no hallucination) · human-in-the-loop review · German medical NLP</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering">Comprehensive ML Analysis</a></h3>
-      <p><b>End-to-end machine learning workflows: regression, classification, clustering.</b></p>
+      <p><b>End-to-end machine learning workflows: regression, classification, and clustering.</b></p>
       <p>
-        Hands-on Python project covering supervised and unsupervised methods — preprocessing, model training, cross-validation, evaluation, and interpretation — with reproducible notebooks.
+        A hands-on Python project. It covers both supervised and unsupervised methods — data cleaning, model training, cross-validation, evaluation, and interpretation. All in reproducible notebooks.
       </p>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -276,13 +279,13 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
         <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
         <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
       </p>
-      <sub><b>Focus:</b> model selection · evaluation · reproducibility · clear analytical writing</sub>
+      <sub><b>Focus:</b> picking the right model · clear evaluation · reproducible work · easy-to-read analysis</sub>
     </td>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips">Laravel Tips &amp; Best Practices</a></h3>
       <p><b>An open knowledge base for backend developers.</b></p>
       <p>
-        Practical Laravel tips covering Eloquent, query optimization, caching, common mistakes, and backend architecture — written for working developers.
+        A growing collection of practical Laravel tips. It covers Eloquent, query optimization, caching, common mistakes, and backend design. Written for working developers.
       </p>
       <p>
         <a href="https://github.com/saberfazliahmadi/Laravel-Tips/stargazers">
@@ -295,32 +298,32 @@ Three years of progressive industry roles at **[MatabeOnline](https://matabeonli
           <img src="https://img.shields.io/github/issues/saberfazliahmadi/Laravel-Tips?style=flat-square&color=22C55E" alt="Issues" />
         </a>
       </p>
-      <sub>⭐ <b>If one tip saves you debugging time, a star helps more developers find it.</b></sub>
+      <sub>⭐ <b>If one tip saves you debugging time, a star helps other developers find it too.</b></sub>
     </td>
   </tr>
 </table>
 
-➡️ Explore [all repositories](https://github.com/saberfazliahmadi?tab=repositories) for additional ML, NLP, and full-stack work.
+➡️ Visit [all my repositories](https://github.com/saberfazliahmadi?tab=repositories) for more ML, NLP, and full-stack work.
 
 ---
 
-## 🔬 Research Profile
+## 🔬 Research Interests
 
-I am drawn to intelligent systems that have to perform in **realistic, high-stakes, and human-centered environments**, where accuracy, explainability, robustness, and usability matter together.
+I am most interested in AI systems that work in the real world. Especially in places where decisions matter a lot — like hospitals. In these places, AI must be accurate, easy to understand, reliable, and easy to use — all at the same time.
 
 | Area | What I work on |
 |---|---|
-| 🧠 **Applied NLP and LLMs** | RAG architectures, domain-adapted LLMs, structured information extraction, evaluation beyond surface benchmarks |
-| 🏥 **Clinical and Healthcare AI** | Clinical decision support, medical text mining, healthcare data pipelines, responsible AI in clinical workflows |
-| 🛡️ **Trustworthy and Human-Centered AI** | Traceability, calibration, uncertainty, human-AI collaboration in critical workflows |
-| ⚙️ **AI for Software Engineering** | NLP for requirements engineering, code understanding, developer-facing intelligent assistants |
-| 📊 **Data-Centric AI** | Dataset quality, annotation workflows, evaluation harnesses, reproducible experimentation |
+| 🧠 **Applied NLP and LLMs** | RAG systems · LLMs adapted for specific topics · pulling structured information out of text · honest evaluation beyond simple scores |
+| 🏥 **Clinical and Healthcare AI** | Decision support for doctors · medical text mining · healthcare data pipelines · responsible AI in clinical work |
+| 🛡️ **Trustworthy and Human-Centered AI** | Traceability · calibration · uncertainty · how humans and AI can work together in critical tasks |
+| ⚙️ **AI for Software Engineering** | NLP for requirements engineering · code understanding · smart assistants for developers |
+| 📊 **Data-Centric AI** | Dataset quality · annotation workflows · evaluation tests · reproducible experiments |
 
-> **Academic direction:** Developing AI-driven data pipelines for clinical and research applications as part of my M.Sc. work in Intelligent Adaptive Systems at Universität Hamburg, in collaboration with established German medical and research institutions.
+> **My academic direction:** I am building AI-driven data pipelines for clinical and research applications. This is part of my M.Sc. work in Intelligent Adaptive Systems at Universität Hamburg, in cooperation with leading German medical and research institutions.
 
 ---
 
-## 📚 Selected Publications and Books
+## 📚 Publications and Books
 
 <table>
   <tr>
@@ -330,7 +333,7 @@ I am drawn to intelligent systems that have to perform in **realistic, high-stak
       Faragardi, H. R., Sedghpour, M. R. S., <b>Fazliahmadi, S.</b>, Fahringer, T., &amp; Rasouli, N.<br/>
       <i>IEEE Transactions on Parallel and Distributed Systems</i>, 31(6), 1239–1254, 2019.<br/>
       <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Cited%20by-200%2B-22C55E?style=flat-square" alt="Cited by 200+" />
+        <img src="https://img.shields.io/badge/Cited%20by-200%2B-22C55E?style=flat-square" alt="Cited by 200 or more" />
       </a>
       <img src="https://img.shields.io/badge/Journal-IEEE%20TPDS-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE TPDS journal" />
     </td>
@@ -348,36 +351,36 @@ I am drawn to intelligent systems that have to perform in **realistic, high-stak
     <td>📄</td>
     <td>
       <b>The Impact of a Clinical Decision Support System on Drug-Interaction Detection</b><br/>
-      Research contribution on clinical decision support and medical information systems.
+      A research paper about how decision support systems help doctors find drug interactions.
     </td>
   </tr>
   <tr>
     <td>📄</td>
     <td>
       <b>Reducing Medical Errors via Integrated Information Systems in Outpatient Clinics</b><br/>
-      Research contribution on healthcare software, clinical workflows, and error reduction.
+      A research paper about how integrated software systems help clinics make fewer medical errors.
     </td>
   </tr>
   <tr>
     <td>📖</td>
     <td>
-      <b>How Robots Work</b> — single-author book on robotics fundamentals, 2024.
+      <b>How Robots Work</b> — single-author book about the basics of robotics, 2024.
     </td>
   </tr>
   <tr>
     <td>📖</td>
     <td>
-      <b>Information Age in Plain Language</b> — single-author book on AI and information technology, 2024.
+      <b>Information Age in Plain Language</b> — single-author book about AI and information technology, 2024.
     </td>
   </tr>
 </table>
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Full%20list%20on-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="See full publication list on Google Scholar" />
+    <img src="https://img.shields.io/badge/See%20full%20list%20on-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="See the full list on Google Scholar" />
   </a>
   <a href="https://www.researchgate.net/profile/Saber-Fazliahmadi">
-    <img src="https://img.shields.io/badge/Also%20on-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="See ResearchGate profile" />
+    <img src="https://img.shields.io/badge/Also%20on-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Visit my ResearchGate profile" />
   </a>
 </p>
 
@@ -401,12 +404,12 @@ I am drawn to intelligent systems that have to perform in **realistic, high-stak
 
 <br/><br/>
 
-`RAG architectures` · `LLM integration (LLaMA 3 · MedGemma · OpenAI · Gemini)` · `Vector retrieval (pgvector · Qdrant)` · `LangGraph agentic workflows` · `Langfuse observability` · `Ragas evaluation` · `Text classification` · `BERT fine-tuning` · `Reproducible experimentation`
+`RAG systems` · `LLM integration (LLaMA 3 · MedGemma · OpenAI · Gemini)` · `Vector search (pgvector · Qdrant)` · `LangGraph agent workflows` · `Langfuse for tracing` · `Ragas for evaluation` · `Text classification` · `BERT fine-tuning` · `Reproducible experiments`
 
 </details>
 
 <details open>
-<summary><b>💻 Full-Stack Engineering — Python · React · TypeScript · PHP · Laravel</b></summary>
+<summary><b>💻 Full-Stack Engineering — Python · React · TypeScript · JavaScript · PHP · Laravel</b></summary>
 
 <br/>
 
@@ -423,7 +426,7 @@ I am drawn to intelligent systems that have to perform in **realistic, high-stak
 
 <br/><br/>
 
-`REST API design` · `JWT auth · RBAC` · `Server Components · Streaming UI` · `OOP · MVC · Clean Code · SOLID` · `Design Patterns (Repository · Strategy · Factory · Observer)` · `PHPUnit · pytest`
+`REST API design` · `JWT login` · `RBAC` · `Server Components` · `Streaming UI` · `OOP` · `MVC` · `Clean Code` · `SOLID` · `Design Patterns (Repository · Strategy · Factory · Observer)` · `PHPUnit` · `pytest`
 
 </details>
 
@@ -449,25 +452,25 @@ I am drawn to intelligent systems that have to perform in **realistic, high-stak
 
 ---
 
-## 🧬 My Path in Three Steps
+## 🧬 My Three-Step Journey
 
 | | |
 |---|---|
-| **1 · Foundation** | **B.Sc. Electrical Engineering** — systems thinking, signals, circuits. Trained me to break complex problems into traceable parts. |
-| **2 · Production** | **M.Sc. Information Technology Management** + multiple progressive industry roles (Frontend → Backend → ML → Full-Stack) — React, TypeScript, Laravel, PHP, REST APIs, RBAC, real users, real product. |
-| **3 · Research** | **M.Sc. Intelligent Adaptive Systems @ Universität Hamburg** — added the mathematical, ML, and research depth needed to build *trustworthy* AI in healthcare and research contexts. |
+| **1 · Foundation** | I studied **Electrical Engineering** for my Bachelor's. I learned to think in systems, signals, and circuits. This taught me how to break big problems into smaller parts. |
+| **2 · Production** | I did my first Master's in **IT Management**. At the same time, I worked at the same company in four roles: Frontend Developer → Backend Developer → Machine Learning Engineer → Full-Stack Developer. I worked with React, TypeScript, JavaScript, Laravel, PHP, REST APIs, RBAC, real users, and a real product. |
+| **3 · Research** | Now I am doing my second Master's in **Intelligent Adaptive Systems at Universität Hamburg**. This program gives me the deep math, ML, and research skills I need to build AI that doctors and researchers can trust. |
 
-The thread connecting all three: **building intelligent software that engineers, researchers, and end-users can actually trust and use.**
+What connects all three steps: **I want to build smart software that engineers, researchers, and real users can trust and use.**
 
 ---
 
 ## ⚡ How I Work
 
-> Open the system. Understand the signal. Find the weak point. Improve the design. Make it work reliably.
+> Open the system. Understand how it works. Find the weak part. Improve the design. Make it work reliably.
 
-Whether I am debugging a query, designing an API, training a model, or reading a research paper, the instinct is the same. I care about systems that are **understandable, testable, maintainable, traceable, and useful**.
+I follow the same approach for every task — fixing a database query, designing an API, training a model, or reading a research paper. I care about systems that are clear, easy to test, easy to maintain, easy to trace back, and useful.
 
-Good software is not clever code. It is a working bridge between a real problem and a reliable solution.
+Good software is not about clever code. It is a working bridge between a real problem and a reliable solution.
 
 ---
 
@@ -486,7 +489,7 @@ Good software is not clever code. It is a working bridge between a real problem 
 
 ## 💬 Ask Me About
 
-`React + TypeScript + Next.js` · `Python + FastAPI` · `PHP + Laravel backends` · `RAG architectures` · `LLM integration into production` · `Clinical AI & decision support` · `REST API design` · `SQL & query optimization` · `Clean Code & SOLID` · `Design Patterns` · `NLP pipelines` · `Research software prototypes`
+`React + TypeScript + JavaScript + Next.js` · `Python + FastAPI` · `PHP + Laravel backends` · `RAG systems` · `LLM integration in production` · `Clinical AI &amp; decision support` · `REST API design` · `SQL &amp; query optimization` · `Clean Code &amp; SOLID` · `Design Patterns` · `NLP pipelines` · `Research software prototypes`
 
 ---
 
@@ -498,7 +501,7 @@ Good software is not clever code. It is a working bridge between a real problem 
 
 ### 🎓 Research and PhD Direction
 
-PhD, HiWi, and research-assistant opportunities in Germany at the intersection of:
+I am looking for **PhD, HiWi, and research-assistant** opportunities in Germany. The areas I am most interested in:
 
 - AI · ML · NLP · LLMs · RAG
 - Clinical and healthcare AI
@@ -506,23 +509,23 @@ PhD, HiWi, and research-assistant opportunities in Germany at the intersection o
 - AI for software engineering
 - Intelligent adaptive systems
 
-Especially groups where strong software engineering helps turn models and ideas into useful systems.
+I am most interested in research groups where strong software skills help turn AI models and ideas into useful tools.
 
 </td>
 <td width="50%" valign="top">
 
 ### 💼 Engineering Direction
 
-Full-time, working-student, and HiWi roles in Germany in:
+I am also open to **full-time jobs, working-student jobs, and HiWi roles** in Germany. The roles I am most interested in:
 
-- **Full-Stack Development** (Python + React + TypeScript + PHP + Laravel)
-- **Frontend Development** (React · TypeScript · Next.js)
+- **Full-Stack Development** (Python + React + TypeScript + JavaScript + PHP + Laravel)
+- **Frontend Development** (React · TypeScript · JavaScript · Next.js)
 - **Backend Development** (PHP · Laravel · Python · FastAPI)
 - **AI Integration / RAG / LLM Engineering**
 - **Machine Learning / Data Engineering**
 - **Healthcare and research software**
 
-Most interested in teams shipping reliable software with real-world impact — where AI, data, and human workflows meet.
+I am most excited about teams that ship reliable software with real-world impact — where AI, data, and human work meet.
 
 </td>
 </tr>
@@ -532,7 +535,7 @@ Most interested in teams shipping reliable software with real-world impact — w
 
 ## 📚 I Share What I Learn
 
-I publish practical technical notes on PHP and Laravel, backend engineering, clean code, React and TypeScript, AI integration, and research-oriented software development.
+I write practical technical notes about PHP and Laravel, backend engineering, clean code, React and TypeScript and JavaScript, AI integration, and research-oriented software development.
 
 <details>
 <summary><b>🌐 Community channels</b></summary>
@@ -552,25 +555,25 @@ I publish practical technical notes on PHP and Laravel, backend engineering, cle
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saberfazliahmadi/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
 </a>
 <a href="mailto:saber.fazliahmadi@studium.uni-hamburg.de">
-  <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
 </a>
 <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Visit my Google Scholar profile" />
 </a>
 <a href="https://www.researchgate.net/profile/Saber-Fazliahmadi">
-  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
+  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="Visit my ResearchGate profile" />
 </a>
 
 <br/><br/>
 
-### Thanks for visiting.
+### Thank you for visiting!
 
-If my work is useful to you, please **follow** my GitHub profile and **star** the repositories you find valuable ⭐
+If my work is useful to you, please **follow** my GitHub profile and **star** the projects you find valuable. ⭐
 
-**Let's build useful, intelligent, and reliable software together.**
+**Let's build useful, smart, and reliable software together.**
 
 <br/>
 
