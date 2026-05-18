@@ -50,7 +50,7 @@
 
 <br/>
 
-### Full-Stack Developer · Python + React + TypeScript + JavaScript + PHP + Laravel · AI / RAG / LLM Integration
+### Full Stack Developer | Python • React • TypeScript • JavaScript • PHP • Laravel • Next.js | AI • RAG • LLM Integration | Building Intelligent AI Systems | Hamburg, Germany
 
 I build software that solves real problems.
 My work brings together full-stack engineering and applied AI.
