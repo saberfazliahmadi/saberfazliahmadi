@@ -3,7 +3,7 @@
 <!-- ===================== HERO ===================== -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20TypeScript%20%2B%20JavaScript%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — Full-Stack Developer using Python, React, PHP, and Laravel — AI, RAG, and LLM Integration — Hamburg, Germany" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — Full-Stack Developer using Python, React, PHP, and Laravel — AI, RAG, and LLM Integration — Hamburg, Germany" />
 </a>
 
 <a href="https://git.io/typing-svg">
