@@ -50,7 +50,7 @@
 
 <br/>
 
-### Full Stack Developer | Python • React • PHP • Laravel • Next.js | AI • RAG • LLM Integration | Building Intelligent AI Systems | Hamburg, Germany
+### Full Stack Developer | Python • React • PHP • Laravel | AI • RAG • LLM Integration | Building Intelligent AI Systems | Hamburg, Germany
 
 I build software that solves real problems.
 My work brings together full-stack engineering and applied AI.
@@ -78,7 +78,7 @@ I take ideas and AI models from research and turn them into tools that people ca
 |---|---|
 | 🎓 **Education** | M.Sc. Intelligent Adaptive Systems · Universität Hamburg · *(in progress)* · M.Sc. IT Management · B.Sc. Electrical Engineering |
 | 📚 **Published work** | One IEEE TPDS journal article · Two single-author books · **207+ Google Scholar citations** |
-| 🛠 **Main tools I use** | Python · FastAPI · React · Next.js · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangGraph · pgvector |
+| 🛠 **Main tools I use** | Python · FastAPI · React · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangGraph · pgvector |
 | 🧠 **My AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy AI |
 | 🌍 **Languages I speak** | English C1 · German A2 *(I am actively improving it)* · Persian (native) |
 | 📍 **I live in** | Hamburg, Germany |
@@ -476,7 +476,7 @@ Good software is not about clever code. It is a working bridge between a real pr
 
 ## 💬 Ask Me About
 
-`React + TypeScript + JavaScript + Next.js` · `Python + FastAPI` · `PHP + Laravel backends` · `RAG systems` · `LLM integration in production` · `Clinical AI &amp; decision support` · `REST API design` · `SQL &amp; query optimization` · `Clean Code &amp; SOLID` · `Design Patterns` · `NLP pipelines` · `Research software prototypes`
+`React + Python + FastAPI` · `PHP + Laravel backends` · `RAG systems` · `LLM integration in production` · `Clinical AI &amp; decision support` · `REST API design` · `SQL &amp; query optimization` · `Clean Code &amp; SOLID` · `Design Patterns` · `NLP pipelines` · `Research software prototypes`
 
 ---
 
