@@ -3,11 +3,11 @@
 <!-- ===================== HERO ===================== -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — Full-Stack Developer using Python, React, PHP, and Laravel — AI, RAG, and LLM Integration — Hamburg, Germany" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Python%20%2B%20React%20%2B%20PHP%20%2B%20Laravel%20%E2%80%A2%20AI%20%2F%20RAG%20%2F%20LLM%20Integration&descAlignY=58&descSize=12" alt="Saber Fazliahmadi —  AI Engineer using Python, React, PHP, and Laravel — AI, RAG, and LLM Integration — Hamburg, Germany" />
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=I+build+software+with+Python%2C+React%2C+TypeScript%2C+JavaScript%2C+PHP%2C+Laravel;I+work+with+AI%2C+RAG%2C+and+LLM+integration;Frontend+%C2%B7+Backend+%C2%B7+ML+%C2%B7+Full-Stack+%E2%80%93+I+worked+in+all+four+roles;M.Sc.+student+in+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+PhD+positions+and+software+%2F+AI+jobs+in+Germany" alt="Animated tagline showing the main skills and roles of Saber Fazliahmadi" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=I+build+software+with+Python%2C+React%2C+TypeScript%2C+JavaScript%2C+PHP%2C+Laravel;I+work+with+AI%2C+RAG%2C+and+LLM+integration;Frontend+%C2%B7+Backend+%C2%B7+ML+%C2%B7+AI_Engineer+%E2%80%93+I+worked+in+all+four+roles;M.Sc.+student+in+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+PhD+positions+and+software+%2F+AI+jobs+in+Germany" alt="Animated tagline showing the main skills and roles of Saber Fazliahmadi" />
 </a>
 
 <br/>
@@ -50,7 +50,7 @@
 
 <br/>
 
-### Full Stack Developer | Python • React • PHP • Laravel | AI • RAG • LLM Integration | Building Intelligent AI Systems | Hamburg, Germany
+### AI Engineer | Python • PHP • Laravel | AI • RAG • LLM Integration | Building Intelligent AI Systems | Hamburg, Germany
 
 I build software that solves real problems.
 My work brings together full-stack engineering and applied AI.
