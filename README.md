@@ -3,7 +3,7 @@
 <!-- ===================== HERO ===================== -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI_Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Hamburg&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — AI Engineer, Full-Stack Developer, Healthcare AI — Hamburg, Germany" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Hamburg&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — AI Engineer, Full-Stack Developer, Healthcare AI — Hamburg, Germany" />
 </a>
 
 <a href="https://git.io/typing-svg">
