@@ -190,11 +190,22 @@ Three years of growing engineering roles at **[MatabeOnline](https://matabeonlin
   <tr>
     <td width="180" valign="top"><b>09/2023 – 03/2024</b><br/><sub>~6 months</sub></td>
     <td valign="top">
-      <h4>🧠 Machine Learning Engineer</h4>
+      <h4>🧠 AI Engineer</h4>
       <ul>
-        <li>Built and improved data pipelines. Cleaned and processed datasets to find useful insights.</li>
-        <li>Improved AI model accuracy by <b>18%</b>. Built solutions that make clinical work safer.</li>
-        <li>Integrated trained ML models into the live product as REST-served endpoints.</li>
+        <li>Designed, deployed, and maintained production AI features for a live healthcare platform serving clinical users. Owned the end-to-end AI lifecycle - from data pipelines to REST API integration to post-deployment monitoring.</li>
+
+<li>Key achievements:</li>
+<li>· Increased downstream model accuracy by 18% by building and optimizing ETL pipelines for heterogeneous clinical data (structured EHRs + semi‑structured notes). Used Pandas, NumPy, and custom data validation logic.</li>
+
+<li>· Deployed trained AI models as production REST endpoints via a FastAPI service layer, replacing offline Jupyter notebooks. Enabled real‑time predictions consumed directly by the React frontend.</li>
+
+<li>· Contributed to AI‑assisted clinical decision support features targeting  medication error reduction and improved patient safety - a high‑impact domain with strict regulatory constraints.</li>
+
+<li>· Managed the full AI lifecycle: data preparation, feature engineering (including temporal and categorical features), model training (scikit‑learn pipelines), hyperparameter tuning, evaluation, versioning, deployment, and post‑deployment drift monitoring.</li>
+
+<li>· Collaborated with backend engineers to containerize AI services using Docker, ensuring reproducible deployments and seamless integration with the existing Laravel/PostgreSQL stack.</li>
+
+<li>Tech stack: Python · scikit‑learn · Pandas · NumPy · FastAPI · REST API design · SQL · PostgreSQL · Docker · Git</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
