@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-209%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 209 citations and counting" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-210%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 210 citations and counting" />
   </a>
   <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Author of an IEEE TPDS journal article" />
   <img src="https://img.shields.io/badge/2%20Authored%20Books-2024-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Single author of 2 books, published 2024" />
@@ -77,7 +77,7 @@ I take ideas and AI models from research and turn them into tools that people ca
 |  |  |
 |---|---|
 | 🎓 **Education** | M.Sc. Intelligent Adaptive Systems · Universität Hamburg · *(in progress)* · M.Sc. IT Management · B.Sc. Electrical Engineering |
-| 📚 **Published work** | One IEEE TPDS journal article (201+ citations) · Two single-author books · **209+ Google Scholar citations** |
+| 📚 **Published work** | One IEEE TPDS journal article (201+ citations) · Two single-author books · **210+ Google Scholar citations** |
 | 🛠 **Main tools I use** | Python · FastAPI · React · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangChain · LangGraph · pgvector |
 | 🧠 **My AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy AI · evaluation |
 | 🌍 **Languages I speak** | English C1 · German A2 *(I am actively improving it)* · Persian (native) |
