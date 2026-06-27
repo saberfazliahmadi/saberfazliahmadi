@@ -77,7 +77,7 @@ I take ideas and AI models from research and turn them into tools that people ca
 |  |  |
 |---|---|
 | 🎓 **Education** | M.Sc. Intelligent Adaptive Systems · Universität Hamburg · *(in progress)* · M.Sc. IT Management · B.Sc. Electrical Engineering |
-| 📚 **Published work** | One IEEE TPDS journal article (201+ citations) · Two single-author books · **210+ Google Scholar citations** |
+| 📚 **Published work** | One IEEE TPDS journal article (204+ citations) · Two single-author books · **210+ Google Scholar citations** |
 | 🛠 **Main tools I use** | Python · FastAPI · React · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · MySQL · PyTorch · LangChain · LangGraph · pgvector |
 | 🧠 **My AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy AI · evaluation |
 | 🌍 **Languages I speak** | English C1 · German A2 *(I am actively improving it)* · Persian (native) |
@@ -366,7 +366,7 @@ I am most interested in AI systems that work in the real world. Especially in pl
       Faragardi, H. R., Sedghpour, M. R. S., <b>Fazliahmadi, S.</b>, Fahringer, T., &amp; Rasouli, N.<br/>
       <i>IEEE Transactions on Parallel and Distributed Systems</i>, 31(6), 1239–1254, 2019.<br/>
       <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Cited%20by-201%2B-22C55E?style=flat-square" alt="Cited by 201 or more" />
+        <img src="https://img.shields.io/badge/Cited%20by-204%2B-22C55E?style=flat-square" alt="Cited by 204 or more" />
       </a>
       <img src="https://img.shields.io/badge/Journal-IEEE%20TPDS-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE TPDS journal" />
     </td>
