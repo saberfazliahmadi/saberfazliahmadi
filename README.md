@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-210%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 210 citations and counting" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-211%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 211 citations and counting" />
   </a>
   <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Author of an IEEE TPDS journal article" />
   <img src="https://img.shields.io/badge/2%20Authored%20Books-2024-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Single author of 2 books, published 2024" />
