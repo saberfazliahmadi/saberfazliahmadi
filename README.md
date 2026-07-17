@@ -6,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Hamburg&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — AI Engineer, Full-Stack Developer, Healthcare AI — Hamburg, Germany" />
 </a>
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/saberfazliahmadi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=AI+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Healthcare+AI;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel;LLM+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+pgvector;M.Sc.+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+AI+%2F+Full-Stack+jobs+and+PhD+positions+in+Germany" alt="Animated tagline: AI Engineer, Full-Stack Developer, Healthcare AI" />
 </a>
 
@@ -58,7 +58,7 @@ I take ideas and AI models from research and turn them into tools people can act
 
 ---
 
-## 🧭 Quick Navigation
+## 📌 Quick Navigation
 
 **[At a Glance](#-at-a-glance)** · **[Where to Start](#-where-to-start)** · **[Experience](#-experience)** · **[Featured Projects](#-featured-projects)** · **[Research Interests](#-research-interests)** · **[Publications](#-publications-and-books)** · **[Tech Stack](#%EF%B8%8F-tech-stack)** · **[What I'm Looking For](#-what-i-am-looking-for)** · **[Contact](#-lets-connect)**
 
@@ -547,6 +547,10 @@ Practical notes on backend engineering, clean code, AI integration, and research
 If my work is useful, **follow** my profile and **star** the projects you find valuable. ⭐
 
 **Let's build useful, smart, and reliable software together.**
+
+<br/>
+
+<a href="#-quick-navigation">⬆ Back to top</a>
 
 <br/>
 
