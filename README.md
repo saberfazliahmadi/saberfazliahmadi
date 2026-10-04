@@ -343,7 +343,7 @@ I am most interested in **AI systems that work in the real world** — especiall
       Faragardi, H. R., Sedghpour, M. R. S., <b>Fazliahmadi, S.</b>, Fahringer, T., &amp; Rasouli, N.<br/>
       <i>IEEE Transactions on Parallel and Distributed Systems</i>, 31(6), 1239–1254, 2019.<br/>
       <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-        <img src="https://img.shields.io/badge/Cited%20by-205%2B-22C55E?style=flat-square" alt="Cited by 205+" />
+        <img src="https://img.shields.io/badge/Cited%20by-205%2B-22C55E?style=flat-square" alt="Cited by 206+" />
       </a>
       <img src="https://img.shields.io/badge/Journal-IEEE%20TPDS-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE TPDS" />
     </td>
