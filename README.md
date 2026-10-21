@@ -243,7 +243,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>ClinGuard-RAG (clinguard-laya-rag)</h3>
+      <h3><a href="https://github.com/saberfazliahmadi/clinguard-laya-rag">ClinGuard-RAG (clinguard-laya-rag)</a></h3>
       <p><b>Calibrated System-1 Decision Layer for Healthcare RAG using Laya & Jev principles</b></p>
       <p>
         A calibrated decision and verification layer that helps clinical Retrieval-Augmented Generation (RAG) systems filter out bad evidence, detect conflicting medical guidelines, and abstain when uncertain.
@@ -255,7 +255,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       <sub><b>Highlights:</b> RAG - Laya - Jev </sub>
     </td>
     <td width="50%" valign="top">
-      <h3>RAG - Document - qa</h3>
+      <h3><a href="https://github.com/saberfazliahmadi/rag-document-qa">RAG - Document - qa</a></h3>
       <p><b>Retrieval-Augmented Generation (RAG) pipeline in Python: ingest PDF/DOCX/TXT documents into ChromaDB and ask questions with grounded, source-cited LLM answers.</b></p>
       <p>
        An evaluation-first RAG system. Ask questions about your own documents and get grounded, source-cited answers — from a pipeline where every architectural decision is measured before it is trusted.
