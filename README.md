@@ -243,6 +243,32 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>ClinGuard-RAG (clinguard-laya-rag)</h3>
+      <p><b>Calibrated System-1 Decision Layer for Healthcare RAG using Laya & Jev principles</b></p>
+      <p>
+        A calibrated decision and verification layer that helps clinical Retrieval-Augmented Generation (RAG) systems filter out bad evidence, detect conflicting medical guidelines, and abstain when uncertain.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
+      </p>
+      <sub><b>Highlights:</b> RAG - Laya - Jev </sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>RAG - Document - qa</h3>
+      <p><b>Retrieval-Augmented Generation (RAG) pipeline in Python: ingest PDF/DOCX/TXT documents into ChromaDB and ask questions with grounded, source-cited LLM answers.</b></p>
+      <p>
+       An evaluation-first RAG system. Ask questions about your own documents and get grounded, source-cited answers — from a pipeline where every architectural decision is measured before it is trusted.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
+      </p>
+      <sub><b>Highlights:</b> RAG - ChromaDB - FastAPI - LLM - NLP - openrouter - Streamlit - Vector Database </sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏥 <a href="https://matabeonline.com">MatabeOnline</a></h3>
       <p><b>An AI-powered web platform for clinics.</b></p>
       <p>
