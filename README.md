@@ -16,7 +16,7 @@
 
 <p>
   <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-214%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 214+ citations" />
+    <img src="https://img.shields.io/badge/Google%20Scholar-215%2B%20citations-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar — 215+ citations" />
   </a>
   <img src="https://img.shields.io/badge/IEEE%20TPDS-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white" alt="Author of an IEEE TPDS journal article" />
   <img src="https://img.shields.io/badge/2%20Authored%20Books-2024-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="Single author of 2 books, published 2024" />
@@ -70,7 +70,7 @@ I take ideas and AI models from research and turn them into tools people can act
 |---|---|
 | 🎓 **Education** | M.Sc. Intelligent Adaptive Systems · Universität Hamburg *(in progress)* · M.Sc. IT Management · B.Sc. Electrical Engineering |
 | 💼 **Now** | Research Assistant (Working Student), Universität Hamburg · building a clinical RAG pipeline as M.Sc. project work |
-| 📚 **Published work** | IEEE TPDS journal article (**208+ citations**) · 2 single-author books · **214+ Google Scholar citations** |
+| 📚 **Published work** | IEEE TPDS journal article (**208+ citations**) · 2 single-author books · **215+ Google Scholar citations** |
 | 🛠 **Main tools** | Python · FastAPI · React · TypeScript · JavaScript · PHP · Laravel · PostgreSQL · pgvector · PyTorch · LangChain · LangGraph |
 | 🧠 **AI / ML focus** | RAG · LLM integration · NLP · clinical decision support · trustworthy AI · evaluation |
 | 🌍 **Languages** | English C1 · German A2 *(actively improving)* · Persian (native) |
