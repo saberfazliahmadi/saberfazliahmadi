@@ -243,8 +243,8 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github.com/saberfazliahmadi/clinguard-laya-rag/blob/main/images/clinguard-rag-cover.png" >
       <h3><a href="https://github.com/saberfazliahmadi/clinguard-laya-rag">ClinGuard-RAG (clinguard-laya-rag)</a></h3>
+      <img src="https://github.com/saberfazliahmadi/clinguard-laya-rag/blob/main/images/clinguard-rag-cover.png" >
       <p><b>Calibrated System-1 Decision Layer for Healthcare RAG using Laya & Jev principles</b></p>
       <p>
         A calibrated decision and verification layer that helps clinical Retrieval-Augmented Generation (RAG) systems filter out bad evidence, detect conflicting medical guidelines, and abstain when uncertain.
