@@ -257,6 +257,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/saberfazliahmadi/rag-document-qa">RAG - Document - qa</a></h3>
+      <img src="https://github.com/saberfazliahmadi/rag-document-qa/blob/main/assets/rag-blueprint-banner.png" >
       <p><b>Retrieval-Augmented Generation (RAG) pipeline in Python: ingest PDF/DOCX/TXT documents into ChromaDB and ask questions with grounded, source-cited LLM answers.</b></p>
       <p>
        An evaluation-first RAG system. Ask questions about your own documents and get grounded, source-cited answers — from a pipeline where every architectural decision is measured before it is trusted.
