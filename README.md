@@ -269,7 +269,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://matabeonline.com">MatabeOnline</a></h3>
+      <h3>🏥 <a href="https://github.com/saberfazliahmadi/clinic-management-software">MatabeOnline</a></h3>
       <p><b>An AI-powered web platform for clinics.</b></p>
       <p>
         A working healthcare web app that manages clinic operations and assists doctors with AI tools. I contributed across four progressive engineering roles — system design, frontend, backend, database, and AI integration.
@@ -306,6 +306,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering">Comprehensive ML Analysis</a></h3>
       <p><b>End-to-end ML workflows: regression, classification, clustering.</b></p>
+      <p>a comprehensive machine learning analysis on a dataset, comparing the accuracy of various regression and classification models, selecting the best model, and applying clustering techniques.</p>
       <p>
         Supervised and unsupervised methods — data cleaning, model training, cross-validation, evaluation, and interpretation. All in reproducible notebooks.
       </p>
