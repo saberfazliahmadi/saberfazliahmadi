@@ -243,7 +243,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
 <table>
   <tr>
     <td width="50%" valign="top">
-      ![ClinGuard RAG cover](https://github.com/saberfazliahmadi/clinguard-laya-rag/blob/main/images/clinguard-rag-cover.png)
+      <img src="https://github.com/saberfazliahmadi/clinguard-laya-rag/blob/main/images/clinguard-rag-cover.png" >
       <h3><a href="https://github.com/saberfazliahmadi/clinguard-laya-rag">ClinGuard-RAG (clinguard-laya-rag)</a></h3>
       <p><b>Calibrated System-1 Decision Layer for Healthcare RAG using Laya & Jev principles</b></p>
       <p>
