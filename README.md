@@ -272,6 +272,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/saberfazliahmadi/clinic-management-software">MatabeOnline Clinic Management Software</a></h3>
+      <img src="https://github.com/saberfazliahmadi/clinic-management-software/blob/master/images/Architecting_the_Intelligent_Clinic_Slide_1.png" >
       <p><b>An AI-powered web platform for clinics.</b></p>
       <p>
         A working healthcare web app that manages clinic operations and assists doctors with AI tools. I contributed across four progressive engineering roles — system design, frontend, backend, database, and AI integration.
