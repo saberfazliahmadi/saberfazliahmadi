@@ -307,6 +307,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering">Comprehensive ML Analysis</a></h3>
+      <img src="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering/blob/main/images/Smart_Laboratory_ML_Blueprint_Logo.png" >
       <p><b>End-to-end ML workflows: regression, classification, clustering.</b></p>
       <p>a comprehensive machine learning analysis on a dataset, comparing the accuracy of various regression and classification models, selecting the best model, and applying clustering techniques.</p>
       <p>
