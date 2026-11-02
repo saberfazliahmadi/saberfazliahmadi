@@ -325,7 +325,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
     </td>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips">Laravel Tips &amp; Best Practices</a></h3>
-      <img src="saberfazliahmadi/Laravel-Tips/files/images/The_Laravel_Engineering_Blueprint_Slide_1.png" />
+      <img src="https://github.com/saberfazliahmadi/Laravel-Tips/files/images/The_Laravel_Engineering_Blueprint_Slide_1.png" />
       <p><b>An open knowledge base for backend developers.</b></p>
       <p>
         A growing collection of practical Laravel tips: Eloquent, query optimization, caching, common mistakes, and backend design — written for working developers.
