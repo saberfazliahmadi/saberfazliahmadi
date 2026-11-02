@@ -290,6 +290,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Clinical AI · RAG Pipeline <sub><i>research · private repo</i></sub></h3>
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGRqo-Od1VFOA/profile-treasury-image-shrink_8192_8192/B4DaGbuiw9JoAQ-/0/1793614032198?e=1794222000&v=beta&t=d_xfl5_RDtY0h5GwQxSFYI6koX51FjajodvqJ3_LMKA" >
       <p><b>An AI system that reads medical guidelines and helps doctors.</b></p>
       <p>
         A research project with a leading German university medical center and a major computing and data science research hub. The system reads long medical guideline PDFs and turns them into clear, patient-specific recommendations — every answer traceable to a source page, every recommendation reviewed by a senior physician before clinical use.
