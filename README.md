@@ -343,6 +343,26 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       </p>
       <sub>⭐ <b>If one tip saves you debugging time, a star helps other developers find it too.</b></sub>
     </td>
+
+    <td width="50%" valign="top">
+      <h3>💡 <a href="https://github.com/saberfazliahmadi/spam-detection-tfidf">Spam Detection with TF-IDF and Decision Trees</a></h3>
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" />
+      <p><b>A notebook-driven machine learning project for classifying spam vs. ham text using TF-IDF feature extraction and decision tree modeling. The repository explores the classic SMS spam detection problem across multiple datasets and compares model behavior under different conditions.</b></p>
+      <p>
+        Why this project exists
+      </p>
+      <p>
+        Spam filtering is a highly practical text classification task: the goal is to automatically identify unsolicited or malicious messages while preserving legitimate content. This project demonstrates how to:
+        
+        clean and normalize raw text
+        transform text into numeric features using TF-IDF
+        train and evaluate classification models
+        compare multiple models and datasets
+        visualize performance and error patterns
+        This is a research/analysis project rather than a packaged application, so the main value is in the notebook-based experimentation and the documentation that explains the approach.
+      </p>
+    </td>
+    
   </tr>
 </table>
 
