@@ -343,7 +343,8 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       </p>
       <sub>⭐ <b>If one tip saves you debugging time, a star helps other developers find it too.</b></sub>
     </td>
-
+    </tr>
+    <tr>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/spam-detection-tfidf">Spam Detection with TF-IDF and Decision Trees</a></h3>
       <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" />
@@ -362,8 +363,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
         This is a research/analysis project rather than a packaged application, so the main value is in the notebook-based experimentation and the documentation that explains the approach.
       </p>
     </td>
-    
-  </tr>
+    </tr>
 </table>
 
 ➡️ Browse [all repositories](https://github.com/saberfazliahmadi?tab=repositories) for more ML, NLP, and full-stack work.
