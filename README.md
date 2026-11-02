@@ -3,11 +3,11 @@
 <!-- ═══════════════════════ HERO ═══════════════════════ -->
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Healthcare%20AI%20%E2%80%A2%20Hamburg&descAlignY=58&descSize=12" alt="Saber Fazliahmadi — AI Engineer, Full-Stack Developer, Healthcare AI — Hamburg, Germany" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Saber%20Fazliahmadi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlign=left&fontAlignY=50&desc=AI%20Engineer%20%2F%20Full-Stack%20Developer%20%2F%20Healthcare%20AI&descSize=12" alt="Saber Fazliahmadi AI Engineer, Full-Stack Developer, Healthcare AI" />
 </a>
 
 <a href="https://github.com/saberfazliahmadi">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=AI+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Healthcare+AI;Python+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Laravel;LLM+%C2%B7+RAG+%C2%B7+LangChain+%C2%B7+LangGraph+%C2%B7+FastAPI+%C2%B7+pgvector;M.Sc.+Intelligent+Adaptive+Systems+%40+Universit%C3%A4t+Hamburg;Open+to+AI+%2F+Full-Stack+jobs+and+PhD+positions+in+Germany" alt="Animated tagline: AI Engineer, Full-Stack Developer, Healthcare AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3500&pause=900&color=4F8EF7&center=true&vCenter=true&width=920&lines=AI+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+Healthcare+AI;Research%2C+Systems%2C+and+Applied+ML;Building+trustworthy+AI+for+real+people" alt="AI Engineer · Full-Stack Developer · Healthcare AI" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%C2%B7%20Full--Stack%20%C2%B7%20Healthcare%20AI%20%C2%B7%20PhD-22C55E?style=for-the-badge" alt="Open to AI Engineer, Full-Stack Developer, Healthcare AI Engineer, and PhD positions" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20%C2%B7%20Full--Stack%20%C2%B7%20Healthcare%20AI%20%C2%B7%20PhD-22C55E?style=for-the-badge" alt="Open to AI Engineer, Full-Stack Developer, Healthcare AI, and PhD roles" />
   <img src="https://img.shields.io/badge/Hamburg%2C%20Germany-000000?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in Hamburg, Germany" />
 </p>
 
@@ -60,7 +60,7 @@ I take ideas and AI models from research and turn them into tools people can act
 
 ## 📌 Quick Navigation
 
-**[At a Glance](#-at-a-glance)** · **[Where to Start](#-where-to-start)** · **[Experience](#-experience)** · **[Featured Projects](#-featured-projects)** · **[Research Interests](#-research-interests)** · **[Publications](#-publications-and-books)** · **[Tech Stack](#%EF%B8%8F-tech-stack)** · **[What I'm Looking For](#-what-i-am-looking-for)** · **[Contact](#-lets-connect)**
+**[At a Glance](#-at-a-glance)** · **[Where to Start](#-where-to-start)** · **[Experience](#-experience)** · **[Featured Projects](#-featured-projects)** · **[Research Interests](#-research-interests)** · **[Publications and Books](#-publications-and-books)** · **[Tech Stack](#%EF%B8%8F-tech-stack)**
 
 ---
 
@@ -149,7 +149,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
 
 **Now:** Research Assistant (Working Student) at **Universität Hamburg** — assisting with the development and maintenance of data pipelines and API services for academic research.
 
-**2015 – 2024:** Six progressive roles at **[MatabeOnline](https://matabeonline.com)** — an AI-powered platform for clinics. Four engineering positions across the whole stack (below), plus earlier IT Sales Analyst and Electronics Technician roles — *full timeline on [LinkedIn](https://www.linkedin.com/in/saberfazliahmadi/)*.
+**2015 – 2024:** Six progressive roles at **[MatabeOnline](https://matabeonline.com)** — an AI-powered platform for clinics. Four engineering positions across the whole stack (below), plus earlier responsibilities in product and operations.
 
 <table>
   <tr>
@@ -164,12 +164,12 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
         <li>Added automated tests and Git-based code reviews.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square" />
-        <img src="https://img.shields.io/badge/-JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/-REST%20API-009688?style=flat-square" alt="REST API" />
+        <img src="https://img.shields.io/badge/-JWT%20%2F%20RBAC-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT and RBAC" />
       </p>
     </td>
   </tr>
@@ -179,19 +179,19 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       <h4>🧠 AI Engineer</h4>
       <p><sub>Owned the end-to-end AI lifecycle for production features on a live clinical platform — from data pipelines to REST integration to post-deployment monitoring.</sub></p>
       <ul>
-        <li>Increased downstream model accuracy by <b>18%</b> by building and optimizing ETL pipelines for heterogeneous clinical data (structured EHRs + semi-structured notes) with Pandas, NumPy, and custom validation logic.</li>
+        <li>Increased downstream model accuracy by <b>18%</b> by building and optimizing ETL pipelines for heterogeneous clinical data (structured EHRs + semi-structured notes) with Pandas, NumPy, and scikit-learn.</li>
         <li>Deployed trained models as production REST endpoints via a <b>FastAPI</b> service layer — replacing offline notebooks with real-time predictions consumed by the React frontend.</li>
         <li>Contributed to AI-assisted clinical decision support targeting <b>medication-error reduction</b> — a high-impact domain with strict regulatory constraints.</li>
         <li>Managed the full ML lifecycle: feature engineering, scikit-learn training pipelines, hyperparameter tuning, evaluation, versioning, and drift monitoring.</li>
         <li>Containerized AI services with <b>Docker</b> for reproducible deployments into the existing Laravel/PostgreSQL stack.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </p>
     </td>
   </tr>
@@ -206,11 +206,11 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
         <li>Applied design patterns (Repository, Strategy, Factory, Observer) for testability.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SOLID%20%2F%20Clean%20Code-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-PHPUnit-3776AB?style=flat-square&logo=php&logoColor=white" alt="PHPUnit" />
+        <img src="https://img.shields.io/badge/-SOLID%20%2F%20Clean%20Code-22C55E?style=flat-square" alt="SOLID and clean code" />
       </p>
     </td>
   </tr>
@@ -224,11 +224,11 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
         <li>Built mobile-first, cross-browser interfaces.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Responsive%20UI-22C55E?style=flat-square" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/-Responsive%20UI-22C55E?style=flat-square" alt="Responsive UI" />
       </p>
     </td>
   </tr>
@@ -244,64 +244,64 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/saberfazliahmadi/clinguard-laya-rag">ClinGuard-RAG (Clinguard-Laya-RAG)</a></h3>
-      <img src="https://github.com/saberfazliahmadi/clinguard-laya-rag/blob/main/images/clinguard-rag-cover.png" >
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/clinguard-laya-rag/main/images/clinguard-rag-cover.png" alt="Clinguard RAG project cover" />
       <p><b>Calibrated System-1 Decision Layer for Healthcare RAG using Laya & Jev principles</b></p>
       <p>
         A calibrated decision and verification layer that helps clinical Retrieval-Augmented Generation (RAG) systems filter out bad evidence, detect conflicting medical guidelines, and abstain when uncertain.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" alt="RAG" />
       </p>
-      <sub><b>Highlights:</b> RAG - Laya - Jev </sub>
+      <sub><b>Highlights:</b> RAG · Laya · Jev</sub>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/saberfazliahmadi/rag-document-qa">RAG - Document - QA</a></h3>
-      <img src="https://github.com/saberfazliahmadi/rag-document-qa/blob/main/assets/rag-blueprint-banner.png" >
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/rag-document-qa/main/assets/rag-blueprint-banner.png" alt="RAG document QA project cover" />
       <p><b>Retrieval-Augmented Generation (RAG) pipeline in Python: ingest PDF/DOCX/TXT documents into ChromaDB and ask questions with grounded, source-cited LLM answers.</b></p>
       <p>
-       An evaluation-first RAG system. Ask questions about your own documents and get grounded, source-cited answers — from a pipeline where every architectural decision is measured before it is trusted.
+        An evaluation-first RAG system. Ask questions about your own documents and get grounded, source-cited answers — from a pipeline where every architectural decision is measured before it is trusted.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" alt="RAG" />
       </p>
-      <sub><b>Highlights:</b> RAG - ChromaDB - FastAPI - LLM - NLP - openrouter - Streamlit - Vector Database </sub>
+      <sub><b>Highlights:</b> RAG · ChromaDB · FastAPI · LLM · NLP · OpenRouter · Streamlit · Vector Database</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/saberfazliahmadi/clinic-management-software">MatabeOnline Clinic Management Software</a></h3>
-      <img src="https://github.com/saberfazliahmadi/clinic-management-software/blob/master/images/Architecting_the_Intelligent_Clinic_Slide_1.png" >
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/clinic-management-software/master/images/Architecting_the_Intelligent_Clinic_Slide_1.png" alt="MatabeOnline clinic management software cover" />
       <p><b>An AI-powered web platform for clinics.</b></p>
       <p>
-        A working healthcare web app that manages clinic operations and assists doctors with AI tools. I contributed across four progressive engineering roles — system design, frontend, backend, database, and AI integration.
+        A working healthcare web app that manages clinic operations and assists doctors with AI tools. I contributed across four progressive engineering roles — system design, frontend, backend, data and AI integration.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
       </p>
       <sub><b>Highlights:</b> AI integration · REST APIs · RBAC · JWT · multi-tenant design · query optimization · real clinical workflows</sub>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 Clinical AI · RAG Pipeline <sub><i>research · private repo</i></sub></h3>
-      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGRqo-Od1VFOA/profile-treasury-image-shrink_8192_8192/B4DaGbuiw9JoAQ-/0/1793614032198?e=1794222000&v=beta&t=d_xfl5_RDtY0h5GwQxSFYI6koX51FjajodvqJ3_LMKA" >
+      <img src="https://media.licdn.com/dms/image/v2/D4D2DAQGRqo-Od1VFOA/profile-treasury-image-shrink_8192_8192/B4DaGbuiw9JoAQ-/0/1793614032198?e=1794222000&v=beta&t=d_xfl5_RDtY0h5GwQxSFYI6koX51Fjajo4mSg" alt="Clinical AI RAG pipeline project image" />
       <p><b>An AI system that reads medical guidelines and helps doctors.</b></p>
       <p>
-        A research project with a leading German university medical center and a major computing and data science research hub. The system reads long medical guideline PDFs and turns them into clear, patient-specific recommendations — every answer traceable to a source page, every recommendation reviewed by a senior physician before clinical use.
+        A research project with a leading German university medical center and a major computing and data science research hub. The system reads long medical guideline PDFs and turns them into clear, evidence-linked decision support workflows.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PaddleOCR-0062B1?style=flat-square" />
-        <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" />
+        <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/-PaddleOCR-0062B1?style=flat-square" alt="PaddleOCR" />
+        <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/-pgvector-336791?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
+        <img src="https://img.shields.io/badge/-RAG-8E44AD?style=flat-square" alt="RAG" />
       </p>
       <sub><b>Highlights:</b> production-grade RAG · OCR for German medical PDFs · full traceability (no hallucination) · human-in-the-loop review · Ragas evaluation · LiteLLM multi-provider access</sub>
     </td>
@@ -309,23 +309,22 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
   <tr>
     <td width="50%" valign="top">
       <h3>📊 <a href="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering">Comprehensive ML Analysis</a></h3>
-      <img src="https://github.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering/blob/main/images/Smart_Laboratory_ML_Blueprint_Logo.png" >
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/ML_Analysis_Regression_Classification_Clustering/main/images/Smart_Laboratory_ML_Blueprint_Logo.png" alt="Machine learning analysis project cover" />
       <p><b>End-to-end ML workflows: regression, classification, clustering.</b></p>
-      <p>a comprehensive machine learning analysis on a dataset, comparing the accuracy of various regression and classification models, selecting the best model, and applying clustering techniques.</p>
       <p>
-        Supervised and unsupervised methods — data cleaning, model training, cross-validation, evaluation, and interpretation. All in reproducible notebooks.
+        A comprehensive machine learning analysis on a dataset, comparing the accuracy of various regression and classification models, selecting the best model, and applying clustering techniques.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
       </p>
       <sub><b>Focus:</b> model selection · clear evaluation · reproducibility · readable analysis</sub>
     </td>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips">Laravel Tips &amp; Best Practices</a></h3>
-      <img src="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/images/The_Laravel_Engineering_Blueprint_Slide_1.png" />
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/Laravel-Tips/main/images/The_Laravel_Engineering_Blueprint_Slide_1.png" alt="Laravel tips project cover" />
       <p><b>An open knowledge base for backend developers.</b></p>
       <p>
         A growing collection of practical Laravel tips: Eloquent, query optimization, caching, common mistakes, and backend design — written for working developers.
@@ -343,27 +342,20 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       </p>
       <sub>⭐ <b>If one tip saves you debugging time, a star helps other developers find it too.</b></sub>
     </td>
-    </tr>
-    <tr>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/spam-detection-tfidf">Spam Detection with TF-IDF and Decision Trees</a></h3>
-      <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" />
-      <p><b>A notebook-driven machine learning project for classifying spam vs. ham text using TF-IDF feature extraction and decision tree modeling. The repository explores the classic SMS spam detection problem across multiple datasets and compares model behavior under different conditions.</b></p>
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" alt="Spam detection project cover" />
+      <p><b>A notebook-driven machine learning project for classifying spam vs. ham text using TF-IDF feature extraction and decision tree modeling.</b></p>
       <p>
-        Why this project exists
-      </p>
-      <p>
-        Spam filtering is a highly practical text classification task: the goal is to automatically identify unsolicited or malicious messages while preserving legitimate content. This project demonstrates how to:
-        
-        clean and normalize raw text
-        transform text into numeric features using TF-IDF
-        train and evaluate classification models
-        compare multiple models and datasets
-        visualize performance and error patterns
-        This is a research/analysis project rather than a packaged application, so the main value is in the notebook-based experimentation and the documentation that explains the approach.
+        This project demonstrates the end-to-end workflow for text classification: clean and normalize raw text, transform it into numeric features with TF-IDF, train and evaluate classification models, and compare performance across domains.
       </p>
     </td>
-    </tr>
+    <td width="50%" valign="top">
+      &nbsp;
+    </td>
+  </tr>
 </table>
 
 ➡️ Browse [all repositories](https://github.com/saberfazliahmadi?tab=repositories) for more ML, NLP, and full-stack work.
@@ -382,7 +374,7 @@ I am most interested in **AI systems that work in the real world** — especiall
 | ⚙️ **AI for Software Engineering** | NLP for requirements engineering · code understanding · developer assistants |
 | 📊 **Data-Centric AI** | Dataset quality · annotation workflows · evaluation tests · reproducible experiments |
 
-> **Current direction:** building AI-driven data pipelines for clinical and research applications — part of my M.Sc. in Intelligent Adaptive Systems at Universität Hamburg, in cooperation with leading German medical and research institutions.
+> **Current direction:** building AI-driven data pipelines for clinical and research applications — part of my M.Sc. in Intelligent Adaptive Systems at Universität Hamburg, in cooperation with leading medical and computing research institutions.
 
 ---
 
@@ -459,7 +451,7 @@ I am most interested in **AI systems that work in the real world** — especiall
 
 <br/><br/>
 
-`RAG systems` · `LLM integration (OpenAI · Gemini · Groq via LiteLLM)` · `Vector search (pgvector · Qdrant)` · `LangGraph agent workflows` · `Ragas evaluation` · `Hugging Face Transformers` · `Embeddings` · `Prompt engineering` · `Text classification` · `BERT fine-tuning` · `Reproducible experiments`
+`RAG systems` · `LLM integration (OpenAI · Gemini · Groq via LiteLLM)` · `Vector search (pgvector · Qdrant)` · `LangGraph agent workflows` · `Ragas evaluation` · `Hugging Face Transformers` · `Prompt engineering` · `Medical NLP`
 
 </details>
 
@@ -570,9 +562,9 @@ Practical notes on backend engineering, clean code, AI integration, and research
 
 **💡 [Laravel Tips Repository](https://github.com/saberfazliahmadi/Laravel-Tips)** — backend best practices and patterns.
 
-**Sample tips:** [Eloquent Relationships](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md) · [Query Optimization](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md) · [Model Methods Pitfall](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/003-dont-use-model-methods-for-retrieving-data.md) · [Cache Management](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/004-use-optimize-clear-command.md) · [Querying with Relationships](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/005-querying-with-relationships.md) · [Dynamic where Methods](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/006-dynamic-where-methods.md) · [orWhere() Pitfalls](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md) · [→ more](https://github.com/saberfazliahmadi/Laravel-Tips)
+**Sample tips:** [Eloquent Relationships](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md) · [Query Optimization](https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/002-query-optimization.md)
 
-**Other channels:** [YouTube](https://www.youtube.com/@saberfazliahmadi) · [Kaggle](https://www.kaggle.com/saberfazliahmadi) · [WhatsApp community](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU) · [Telegram community](https://t.me/laravel_developer_community)
+**Other channels:** [YouTube](https://www.youtube.com/@saberfazliahmadi) · [Kaggle](https://www.kaggle.com/saberfazliahmadi) · [WhatsApp community](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU)
 
 ---
 
