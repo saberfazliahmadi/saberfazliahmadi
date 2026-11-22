@@ -353,7 +353,19 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
       </p>
     </td>
     <td width="50%" valign="top">
-      &nbsp;
+      <h3>💡 <a href="https://github.com/saberfazliahmadi/eu-trustworthy-llm-stack">EU Trustworthy LLM Stack</a></h3>
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" alt="Spam detection project cover" />
+      <p><b>Open-source reference stack for a fictional EU AI Act (Annex III) HR assistant in FastAPI: 5-layer safety guardrails, RAG fact-checking, fairness & red-team audits, PyTorch labs, and 91 offline CI tests.</b></p>
+     <p>
+       What This Project Is (In Plain English)
+      </p>
+      <p>
+       ExampleHR Assistant is a fictional AI assistant for HR and careers in Germany. It answers questions about company HR policy and helps people prepare for job applications and interviews.
+  
+Under the EU AI Act (the European Union's law for artificial intelligence), AI used in hiring is legally "high-risk" (Annex III, point 4). High-risk AI must be safe, fair, documented and supervised by humans.
+
+This repository builds the assistant and the complete safety, fairness and testing system around it. Every claim about the assistant is backed by code you can run, an automated test, a written report and a chart.
+      </p>
     </td>
   </tr>
 </table>
