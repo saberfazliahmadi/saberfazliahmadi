@@ -587,9 +587,6 @@ Practical notes on backend engineering, clean code, AI integration, and research
 <a href="https://www.linkedin.com/in/saberfazliahmadi/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
-<a href="mailto:saber.fazliahmadi@studium.uni-hamburg.de">
-  <img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
-</a>
 <a href="https://scholar.google.com/citations?user=iWYg-9kAAAAJ&hl=en">
   <img src="https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
 </a>
