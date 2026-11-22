@@ -354,7 +354,7 @@ Hiring for **Healthcare AI, Medical AI, or Clinical Decision Support**?
     </td>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/eu-trustworthy-llm-stack">EU Trustworthy LLM Stack</a></h3>
-      <img src="https://raw.githubusercontent.com/saberfazliahmadi/spam-detection-tfidf/main/images/Spam_Detection_Across_Text_Domains_Slide_1.png" alt="Spam detection project cover" />
+      <img src="https://github.com/saberfazliahmadi/eu-trustworthy-llm-stack/blob/main/docs/overview/EU%20Trustworthy%20LLM%20Stack.png" alt="Spam detection project cover" />
       <p><b>Open-source reference stack for a fictional EU AI Act (Annex III) HR assistant in FastAPI: 5-layer safety guardrails, RAG fact-checking, fairness & red-team audits, PyTorch labs, and 91 offline CI tests.</b></p>
      <p>
        What This Project Is (In Plain English)
