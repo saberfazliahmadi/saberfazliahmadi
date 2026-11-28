@@ -371,7 +371,7 @@ This repository builds the assistant and the complete safety, fairness and testi
   <tr>
     <td width="50%" valign="top">
       <h3>💡 <a href="https://github.com/saberfazliahmadi/hybrid-vision-llm-inspector">Hybrid Vision-LLM Inspector</a></h3>
-      <img src="" alt="" />
+      <img src="https://raw.githubusercontent.com/saberfazliahmadi/hybrid-vision-llm-inspector/main/docs/assets/Hybrid_Vision-LLM_Inspector_Slide_1.png" alt="Hybrid Vision-LLM Inspector" />
       <p><b>Deterministic-first industrial visual QA combining classical CV gating (SIFT/RANSAC, Hough), ROI segmentation (-91% VLM tokens), custom PyTorch CNNs (ResNetCBAM, MobileNetSE, Grad-CAM), Visual RAG & grounded LLM guardrails (FastAPI, Ollama, Docker).</b></p>
       <p>Deterministic-first visual quality inspection for precision machined parts. Classical computer vision verifies what can be verified exactly, segmentation cuts the image down to the anomalous regions, lightweight attention CNNs classify and explain, a visual RAG store retrieves similar historical defects, and an LLM only writes up verified, structured evidence, behind deterministic guardrails it cannot override.</p>
     </td>
